@@ -1,0 +1,1468 @@
+---snip---
+[15:56:11] [Client thread/INFO] [FML/]: Injecting itemstacks
+[15:56:11] [Client thread/INFO] [FML/]: Itemstack injection complete
+[15:56:11] [Client thread/TRACE] [mcp/mcp]: Sending event FMLPostInitializationEvent to mod mcp
+[15:56:11] [Client thread/TRACE] [mcp/mcp]: Sent event FMLPostInitializationEvent to mod mcp
+[15:56:11] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Coder Pack took 0.001s
+[15:56:11] [Client thread/TRACE] [FML/FML]: Sending event FMLPostInitializationEvent to mod FML
+[15:56:11] [Client thread/TRACE] [FML/FML]: Sent event FMLPostInitializationEvent to mod FML
+[15:56:11] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forge Mod Loader took 0.003s
+[15:56:11] [Client thread/TRACE] [Forge/Forge]: Sending event FMLPostInitializationEvent to mod Forge
+[15:56:11] [Client thread/TRACE] [Forge/Forge]: Sent event FMLPostInitializationEvent to mod Forge
+[15:56:11] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Minecraft Forge took 0.010s
+[15:56:11] [Client thread/TRACE] [appliedenergistics2-core/appliedenergistics2-core]: Sending event FMLPostInitializationEvent to mod appliedenergistics2-core
+[15:56:11] [Client thread/TRACE] [appliedenergistics2-core/appliedenergistics2-core]: Sent event FMLPostInitializationEvent to mod appliedenergistics2-core
+[15:56:11] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - AppliedEnergistics2 Core took 0.001s
+[15:56:11] [Client thread/TRACE] [Aroma1997Core/Aroma1997Core]: Sending event FMLPostInitializationEvent to mod Aroma1997Core
+[15:56:11] [Aroma1997Core VersionChecking/ERROR] [Aroma1997Core/Aroma1997Core]: Failed to do VersionChecking. Check your network connection.
+[15:56:11] [Client thread/INFO] [Aroma1997Core/Aroma1997Core]: Finished Post-Initialization.
+[15:56:11] [Client thread/TRACE] [Aroma1997Core/Aroma1997Core]: Sent event FMLPostInitializationEvent to mod Aroma1997Core
+[15:56:11] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Aroma1997Core took 0.076s
+[15:56:11] [Client thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sending event FMLPostInitializationEvent to mod CodeChickenCore
+[15:56:11] [Client thread/TRACE] [CodeChickenCore/CodeChickenCore]: Sent event FMLPostInitializationEvent to mod CodeChickenCore
+[15:56:11] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - CodeChicken Core took 0.001s
+[15:56:11] [Client thread/TRACE] [FR-CORE/FR-CORE]: Sending event FMLPostInitializationEvent to mod FR-CORE
+[15:56:11] [Client thread/TRACE] [FR-CORE/FR-CORE]: Sent event FMLPostInitializationEvent to mod FR-CORE
+[15:56:11] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Floatable Rails took 0.001s
+[15:56:11] [Client thread/TRACE] [NotEnoughItems/NotEnoughItems]: Sending event FMLPostInitializationEvent to mod NotEnoughItems
+[15:56:11] [Client thread/TRACE] [NotEnoughItems/NotEnoughItems]: Sent event FMLPostInitializationEvent to mod NotEnoughItems
+[15:56:11] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Not Enough Items took 0.001s
+[15:56:11] [Client thread/TRACE] [ThaumicTinkerer-preloader/ThaumicTinkerer-preloader]: Sending event FMLPostInitializationEvent to mod ThaumicTinkerer-preloader
+[15:56:11] [Client thread/TRACE] [ThaumicTinkerer-preloader/ThaumicTinkerer-preloader]: Sent event FMLPostInitializationEvent to mod ThaumicTinkerer-preloader
+[15:56:11] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Thaumic Tinkerer Core took 0.001s
+[15:56:11] [Client thread/TRACE] [OpenModsCore/OpenModsCore]: Sending event FMLPostInitializationEvent to mod OpenModsCore
+[15:56:11] [Client thread/TRACE] [OpenModsCore/OpenModsCore]: Sent event FMLPostInitializationEvent to mod OpenModsCore
+[15:56:11] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - OpenModsCore took 0.001s
+[15:56:11] [Client thread/TRACE] [<CoFH ASM>/<CoFH ASM>]: Sending event FMLPostInitializationEvent to mod <CoFH ASM>
+[15:56:11] [Client thread/TRACE] [<CoFH ASM>/<CoFH ASM>]: Sent event FMLPostInitializationEvent to mod <CoFH ASM>
+[15:56:11] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - CoFH ASM took 0.001s
+[15:56:11] [Client thread/TRACE] [Trapcraft/Trapcraft]: Sending event FMLPostInitializationEvent to mod Trapcraft
+[15:56:11] [Aroma1997Core VersionChecking/INFO] [Aroma1997Core/Aroma1997Core]: Aroma1997Core failed to do VersionChecking. Either there is something wrong with your network connection or with my server.
+[15:56:11] [Client thread/TRACE] [Trapcraft/Trapcraft]: Sent event FMLPostInitializationEvent to mod Trapcraft
+[15:56:11] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Trapcraft took 0.101s
+[15:56:11] [Client thread/TRACE] [bspkrsCore/bspkrsCore]: Sending event FMLPostInitializationEvent to mod bspkrsCore
+[15:56:12] [Client thread/TRACE] [bspkrsCore/bspkrsCore]: Sent event FMLPostInitializationEvent to mod bspkrsCore
+[15:56:12] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - bspkrsCore took 0.247s
+[15:56:12] [Client thread/TRACE] [FloatingRuins/FloatingRuins]: Sending event FMLPostInitializationEvent to mod FloatingRuins
+[15:56:12] [Client thread/TRACE] [FloatingRuins/FloatingRuins]: Sent event FMLPostInitializationEvent to mod FloatingRuins
+[15:56:12] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - FloatingRuins took 0.001s
+[15:56:12] [Client thread/TRACE] [DC1/DC1]: Sending event FMLPostInitializationEvent to mod DC1
+[15:56:12] [Client thread/TRACE] [DC1/DC1]: Sent event FMLPostInitializationEvent to mod DC1
+[15:56:12] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - KingCore took 0.005s
+[15:56:12] [Client thread/TRACE] [Glow/Glow]: Sending event FMLPostInitializationEvent to mod Glow
+[15:56:12] [Client thread/TRACE] [Glow/Glow]: Sent event FMLPostInitializationEvent to mod Glow
+[15:56:12] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Glow took 0.001s
+[15:56:12] [Client thread/TRACE] [CoFHCore/CoFHCore]: Sending event FMLPostInitializationEvent to mod CoFHCore
+[15:56:12] [Client thread/DEBUG] [FML/CoFHCore]: Bar Finished: Loading Resource - CoFHFontRender took 0.011s
+[15:56:12] [Client thread/TRACE] [CoFHCore/CoFHCore]: Sent event FMLPostInitializationEvent to mod CoFHCore
+[15:56:12] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - CoFH Core took 0.439s
+[15:56:12] [Client thread/TRACE] [Baubles/Baubles]: Sending event FMLPostInitializationEvent to mod Baubles
+[15:56:12] [Client thread/TRACE] [Baubles/Baubles]: Sent event FMLPostInitializationEvent to mod Baubles
+[15:56:12] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Baubles took 0.002s
+[15:56:12] [Client thread/TRACE] [ThermalFoundation/ThermalFoundation]: Sending event FMLPostInitializationEvent to mod ThermalFoundation
+---snip---
+[15:56:12] [Client thread/TRACE] [ThermalFoundation/ThermalFoundation]: Sent event FMLPostInitializationEvent to mod ThermalFoundation
+[15:56:12] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Thermal Foundation took 0.227s
+[15:56:12] [Client thread/TRACE] [BuildCraft|Core/BuildCraft|Core]: Sending event FMLPostInitializationEvent to mod BuildCraft|Core
+[15:56:12] [Client thread/INFO] [BuildCraft/BuildCraft|Core]: BuildCraft's fake player: UUID = 77456a1f-b9f9-3f84-8863-ddef5b8e2209, name = '[BuildCraft]'!
+[15:56:13] [Client thread/TRACE] [BuildCraft|Core/BuildCraft|Core]: Sent event FMLPostInitializationEvent to mod BuildCraft|Core
+[15:56:13] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - BuildCraft took 0.159s
+[15:56:13] [Client thread/TRACE] [ExtraUtilities/ExtraUtilities]: Sending event FMLPostInitializationEvent to mod ExtraUtilities
+---snip---
+[15:56:16] [Client thread/TRACE] [ExtraUtilities/ExtraUtilities]: Sent event FMLPostInitializationEvent to mod ExtraUtilities
+[15:56:16] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Extra Utilities took 3.425s
+[15:56:16] [Client thread/TRACE] [Mantle/Mantle]: Sending event FMLPostInitializationEvent to mod Mantle
+[15:56:16] [Client thread/INFO] [Mantle/Mantle]: Entering postinitialization phase.
+[15:56:16] [Client thread/INFO] [Mantle/Mantle]: Loading Manual XML from: /assets/mantle/manuals/test.xml
+---snip---
+[15:56:16] [Client thread/TRACE] [Mantle/Mantle]: Sent event FMLPostInitializationEvent to mod Mantle
+[15:56:16] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Mantle took 0.172s
+[15:56:16] [Client thread/TRACE] [MineFactoryReloaded/MineFactoryReloaded]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded
+[15:56:16] [Client thread/DEBUG] [FML/MineFactoryReloaded]: Method powercrystals.minefactoryreloaded.gui.container.ContainerFactoryInventory.func_75142_b()V: Replacing GETFIELD fluidID with INVOKEVIRTUAL getFluidID
+[15:56:16] [Client thread/TRACE] [MineFactoryReloaded/MineFactoryReloaded]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded
+[15:56:16] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MineFactory Reloaded took 0.229s
+[15:56:16] [Client thread/TRACE] [ThermalExpansion/ThermalExpansion]: Sending event FMLPostInitializationEvent to mod ThermalExpansion
+[15:56:16] [Client thread/INFO] [ThermalExpansion/ThermalExpansion]: There are no crafting files present in C:\Users\Blue64\AppData\Roaming\.minecraft\config\cofh\thermalexpansion\crafting.
+[15:56:17] [Client thread/TRACE] [FML/ThermalExpansion]: Automatically registered mod ThermalExpansion entity florb as ThermalExpansion.florb
+[15:56:17] [Client thread/TRACE] [ThermalExpansion/ThermalExpansion]: Sent event FMLPostInitializationEvent to mod ThermalExpansion
+[15:56:17] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Thermal Expansion took 0.292s
+[15:56:17] [Client thread/TRACE] [Waila/Waila]: Sending event FMLPostInitializationEvent to mod Waila
+[15:56:18] [Client thread/INFO] [STDOUT/Waila]: [mcp.mobius.waila.gui.truetyper.TrueTypeFont:<init>:98]: TrueTypeFont loaded: java.awt.Font[family=Minecraftia,name=Minecraftia Regular,style=plain,size=14] - AntiAlias = true
+[15:56:19] [Client thread/TRACE] [Waila/Waila]: Sent event FMLPostInitializationEvent to mod Waila
+[15:56:19] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Waila took 2.332s
+[15:56:19] [Client thread/TRACE] [TConstruct/TConstruct]: Sending event FMLPostInitializationEvent to mod TConstruct
+---snip---
+[15:56:20] [Client thread/TRACE] [TConstruct/TConstruct]: Sent event FMLPostInitializationEvent to mod TConstruct
+[15:56:20] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Tinkers' Construct took 1.057s
+[15:56:20] [Client thread/TRACE] [GreenThumb/GreenThumb]: Sending event FMLPostInitializationEvent to mod GreenThumb
+[15:56:20] [Client thread/TRACE] [GreenThumb/GreenThumb]: Sent event FMLPostInitializationEvent to mod GreenThumb
+[15:56:20] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Green Thumb took 0.001s
+[15:56:20] [Client thread/TRACE] [ToolHeads/ToolHeads]: Sending event FMLPostInitializationEvent to mod ToolHeads
+[15:56:20] [Client thread/TRACE] [ToolHeads/ToolHeads]: Sent event FMLPostInitializationEvent to mod ToolHeads
+[15:56:20] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - ToolHeads took 0.065s
+[15:56:20] [Client thread/TRACE] [EB/EB]: Sending event FMLPostInitializationEvent to mod EB
+[15:56:20] [Client thread/TRACE] [EB/EB]: Sent event FMLPostInitializationEvent to mod EB
+[15:56:20] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Ender Book took 0.002s
+[15:56:20] [Client thread/TRACE] [Boost/Boost]: Sending event FMLPostInitializationEvent to mod Boost
+[15:56:20] [Client thread/TRACE] [Boost/Boost]: Sent event FMLPostInitializationEvent to mod Boost
+[15:56:20] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Boost took 0.001s
+[15:56:20] [Client thread/TRACE] [Crusher/Crusher]: Sending event FMLPostInitializationEvent to mod Crusher
+[15:56:20] [Client thread/TRACE] [Crusher/Crusher]: Sent event FMLPostInitializationEvent to mod Crusher
+[15:56:20] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Crusher took 0.020s
+[15:56:20] [Client thread/TRACE] [IC2/IC2]: Sending event FMLPostInitializationEvent to mod IC2
+[15:56:20] [Client thread/DEBUG] [IC2.General/IC2]: Starting post-init.
+[15:56:20] [Client thread/DEBUG] [FML/IC2]: Bar Finished: Loading Resource - Localization$3 took 0.006s
+[15:56:20] [Client thread/DEBUG] [IC2.SubModule/IC2]: Loading IC2 submodule: bcIntegration.
+[15:56:20] [Client thread/DEBUG] [IC2.SubModule/IC2]: BuildCraft integration module loaded.
+[15:56:21] [Client thread/INFO] [IC2.Uu/IC2]: Loading predefined UU world scan values, run /ic2 uu-world-scan <small|medium|large> to calibrate them for your world.
+[15:56:22] [Client thread/DEBUG] [IC2.Uu/IC2]: 11129 UU recipe transformations fetched after 1111 ms.
+[15:56:22] [Client thread/DEBUG] [IC2.General/IC2]: Finished post-init after 1886 ms.
+[15:56:22] [Client thread/INFO] [IC2.General/IC2]: IC2 version 2.2.809-experimental loaded.
+[15:56:22] [Client thread/TRACE] [IC2/IC2]: Sent event FMLPostInitializationEvent to mod IC2
+[15:56:22] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - IndustrialCraft 2 took 1.950s
+[15:56:22] [Client thread/TRACE] [ImmibisCore/ImmibisCore]: Sending event FMLPostInitializationEvent to mod ImmibisCore
+[15:56:22] [Client thread/TRACE] [ImmibisCore/ImmibisCore]: Sent event FMLPostInitializationEvent to mod ImmibisCore
+[15:56:22] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Immibis Core took 0.001s
+[15:56:22] [Client thread/TRACE] [AdvancedMachines/AdvancedMachines]: Sending event FMLPostInitializationEvent to mod AdvancedMachines
+[15:56:22] [Client thread/TRACE] [AdvancedMachines/AdvancedMachines]: Sent event FMLPostInitializationEvent to mod AdvancedMachines
+[15:56:22] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Advanced Machines took 0.001s
+[15:56:22] [Client thread/TRACE] [AdvancedSolarPanel/AdvancedSolarPanel]: Sending event FMLPostInitializationEvent to mod AdvancedSolarPanel
+---snip---
+[15:56:22] [Client thread/TRACE] [AdvancedSolarPanel/AdvancedSolarPanel]: Sent event FMLPostInitializationEvent to mod AdvancedSolarPanel
+[15:56:22] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Advanced Solar Panels took 0.160s
+[15:56:22] [Client thread/TRACE] [appliedenergistics2/appliedenergistics2]: Sending event FMLPostInitializationEvent to mod appliedenergistics2
+[15:56:29] [Client thread/TRACE] [appliedenergistics2/appliedenergistics2]: Sent event FMLPostInitializationEvent to mod appliedenergistics2
+[15:56:29] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Applied Energistics 2 took 6.725s
+[15:56:29] [Client thread/TRACE] [bdlib/bdlib]: Sending event FMLPostInitializationEvent to mod bdlib
+[15:56:29] [Client thread/TRACE] [bdlib/bdlib]: Sent event FMLPostInitializationEvent to mod bdlib
+[15:56:29] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - BD Lib took 0.001s
+[15:56:29] [Client thread/TRACE] [ae2stuff/ae2stuff]: Sending event FMLPostInitializationEvent to mod ae2stuff
+---snip---
+[15:56:29] [Client thread/TRACE] [ae2stuff/ae2stuff]: Sent event FMLPostInitializationEvent to mod ae2stuff
+[15:56:29] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - AE2 Stuff took 0.066s
+[15:56:29] [Client thread/TRACE] [AFSU/AFSU]: Sending event FMLPostInitializationEvent to mod AFSU
+[15:56:29] [Client thread/TRACE] [AFSU/AFSU]: Sent event FMLPostInitializationEvent to mod AFSU
+[15:56:29] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - AFSU Mod took 0.001s
+[15:56:29] [Client thread/TRACE] [Aroma1997CoreHelper/Aroma1997CoreHelper]: Sending event FMLPostInitializationEvent to mod Aroma1997CoreHelper
+[15:56:29] [Client thread/TRACE] [Aroma1997CoreHelper/Aroma1997CoreHelper]: Sent event FMLPostInitializationEvent to mod Aroma1997CoreHelper
+[15:56:29] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Aroma1997Core|Helper took 0.001s
+[15:56:29] [Client thread/TRACE] [Aroma1997sDimension/Aroma1997sDimension]: Sending event FMLPostInitializationEvent to mod Aroma1997sDimension
+[15:56:29] [Client thread/TRACE] [Aroma1997sDimension/Aroma1997sDimension]: Sent event FMLPostInitializationEvent to mod Aroma1997sDimension
+[15:56:29] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Aroma1997's Dimensional World took 0.001s
+[15:56:29] [Client thread/TRACE] [AutoSapling/AutoSapling]: Sending event FMLPostInitializationEvent to mod AutoSapling
+[15:56:29] [Client thread/TRACE] [AutoSapling/AutoSapling]: Sent event FMLPostInitializationEvent to mod AutoSapling
+[15:56:29] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - AutoSapling took 0.001s
+[15:56:29] [Client thread/TRACE] [Backpack/Backpack]: Sending event FMLPostInitializationEvent to mod Backpack
+[15:56:30] [Client thread/INFO] [Backpack/Backpack]: [Backpacks] NEI Support enabled
+[15:56:30] [Client thread/TRACE] [Backpack/Backpack]: Sent event FMLPostInitializationEvent to mod Backpack
+[15:56:30] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Backpack took 0.636s
+[15:56:30] [Client thread/TRACE] [BetterChests/BetterChests]: Sending event FMLPostInitializationEvent to mod BetterChests
+[15:56:30] [Client thread/TRACE] [BetterChests/BetterChests]: Sent event FMLPostInitializationEvent to mod BetterChests
+[15:56:30] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - BetterChests took 0.001s
+[15:56:30] [Client thread/TRACE] [bettersugarcane/bettersugarcane]: Sending event FMLPostInitializationEvent to mod bettersugarcane
+[15:56:30] [Client thread/TRACE] [bettersugarcane/bettersugarcane]: Sent event FMLPostInitializationEvent to mod bettersugarcane
+[15:56:30] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Better Sugar Cane took 0.001s
+[15:56:30] [Client thread/TRACE] [AWWayofTime/AWWayofTime]: Sending event FMLPostInitializationEvent to mod AWWayofTime
+[15:56:31] [Client thread/INFO] [BloodMagic/AWWayofTime]: Recipe Holder initialized: took 1147.1381ms.
+[15:56:31] [Client thread/INFO] [BloodMagic/AWWayofTime]: Loaded MineTweaker 3 Integration
+---snip---
+[15:56:34] [Client thread/INFO] [BloodMagic/AWWayofTime]: Total number of compression recipes: 176
+[15:56:34] [Client thread/TRACE] [AWWayofTime/AWWayofTime]: Sent event FMLPostInitializationEvent to mod AWWayofTime
+[15:56:34] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Blood Magic: Alchemical Wizardry took 4.225s
+[15:56:34] [Client thread/TRACE] [bookshelf/bookshelf]: Sending event FMLPostInitializationEvent to mod bookshelf
+[15:56:34] [Client thread/TRACE] [bookshelf/bookshelf]: Sent event FMLPostInitializationEvent to mod bookshelf
+[15:56:34] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Bookshelf took 0.001s
+[15:56:34] [Client thread/TRACE] [BuildCraft|Builders/BuildCraft|Builders]: Sending event FMLPostInitializationEvent to mod BuildCraft|Builders
+[15:56:35] [Client thread/TRACE] [BuildCraft|Builders/BuildCraft|Builders]: Sent event FMLPostInitializationEvent to mod BuildCraft|Builders
+[15:56:35] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - BC Builders took 1.460s
+[15:56:35] [Client thread/TRACE] [BuildCraft|Transport/BuildCraft|Transport]: Sending event FMLPostInitializationEvent to mod BuildCraft|Transport
+[15:56:35] [Client thread/TRACE] [BuildCraft|Transport/BuildCraft|Transport]: Sent event FMLPostInitializationEvent to mod BuildCraft|Transport
+[15:56:35] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - BC Transport took 0.015s
+[15:56:35] [Client thread/TRACE] [BuildCraft|Energy/BuildCraft|Energy]: Sending event FMLPostInitializationEvent to mod BuildCraft|Energy
+[15:56:36] [Client thread/TRACE] [BuildCraft|Energy/BuildCraft|Energy]: Sent event FMLPostInitializationEvent to mod BuildCraft|Energy
+[15:56:36] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - BC Energy took 0.109s
+[15:56:36] [Client thread/TRACE] [BuildCraft|Silicon/BuildCraft|Silicon]: Sending event FMLPostInitializationEvent to mod BuildCraft|Silicon
+[15:56:36] [Client thread/TRACE] [BuildCraft|Silicon/BuildCraft|Silicon]: Sent event FMLPostInitializationEvent to mod BuildCraft|Silicon
+[15:56:36] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - BC Silicon took 0.001s
+[15:56:36] [Client thread/TRACE] [BuildCraft|Robotics/BuildCraft|Robotics]: Sending event FMLPostInitializationEvent to mod BuildCraft|Robotics
+[15:56:36] [Client thread/TRACE] [BuildCraft|Robotics/BuildCraft|Robotics]: Sent event FMLPostInitializationEvent to mod BuildCraft|Robotics
+[15:56:36] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - BC Robotics took 0.002s
+[15:56:36] [Client thread/TRACE] [BuildCraft|Factory/BuildCraft|Factory]: Sending event FMLPostInitializationEvent to mod BuildCraft|Factory
+[15:56:36] [Client thread/TRACE] [BuildCraft|Factory/BuildCraft|Factory]: Sent event FMLPostInitializationEvent to mod BuildCraft|Factory
+[15:56:36] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - BC Factory took 0.001s
+[15:56:36] [Client thread/TRACE] [Forestry/Forestry]: Sending event FMLPostInitializationEvent to mod Forestry
+---snip---
+[15:56:36] [ic2-poolthread-2/DEBUG] [IC2.Uu/IC2]: UU graph built with 6665 nodes after 14355 ms.
+---snip---
+[15:56:37] [Client thread/TRACE] [Forestry/Forestry]: Sent event FMLPostInitializationEvent to mod Forestry
+[15:56:37] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Forestry for Minecraft took 1.019s
+[15:56:37] [Client thread/TRACE] [BuildCraft|Compat/BuildCraft|Compat]: Sending event FMLPostInitializationEvent to mod BuildCraft|Compat
+[15:56:37] [Client thread/TRACE] [BuildCraft|Compat/BuildCraft|Compat]: Sent event FMLPostInitializationEvent to mod BuildCraft|Compat
+[15:56:37] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - BuildCraft Compat took 0.064s
+[15:56:37] [Client thread/TRACE] [cmdTempInit/cmdTempInit]: Sending event FMLPostInitializationEvent to mod cmdTempInit
+[15:56:37] [Client thread/TRACE] [cmdTempInit/cmdTempInit]: Sent event FMLPostInitializationEvent to mod cmdTempInit
+[15:56:37] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - CommandTemperature took 0.045s
+[15:56:37] [Client thread/TRACE] [CompactMachines/CompactMachines]: Sending event FMLPostInitializationEvent to mod CompactMachines
+[15:56:37] [Client thread/TRACE] [CompactMachines/CompactMachines]: Sent event FMLPostInitializationEvent to mod CompactMachines
+[15:56:37] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Compact Machines took 0.011s
+[15:56:37] [Client thread/TRACE] [craftguide/craftguide]: Sending event FMLPostInitializationEvent to mod craftguide
+[15:56:37] [Client thread/TRACE] [craftguide/craftguide]: Sent event FMLPostInitializationEvent to mod craftguide
+[15:56:37] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - CraftGuide took 0.001s
+[15:56:37] [Client thread/TRACE] [DimensionalAnchors/DimensionalAnchors]: Sending event FMLPostInitializationEvent to mod DimensionalAnchors
+[15:56:37] [Client thread/TRACE] [DimensionalAnchors/DimensionalAnchors]: Sent event FMLPostInitializationEvent to mod DimensionalAnchors
+[15:56:37] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Dimensional Anchors took 0.001s
+[15:56:37] [Client thread/TRACE] [eplus/eplus]: Sending event FMLPostInitializationEvent to mod eplus
+[15:56:37] [Client thread/INFO] [eplus/eplus]: Plugin initialized in PostInit... TConPlugin
+[15:56:37] [Client thread/TRACE] [eplus/eplus]: Sent event FMLPostInitializationEvent to mod eplus
+[15:56:37] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Enchanting Plus took 0.526s
+[15:56:37] [Client thread/TRACE] [Enchiridion/Enchiridion]: Sending event FMLPostInitializationEvent to mod Enchiridion
+[15:56:37] [Client thread/TRACE] [Enchiridion/Enchiridion]: Sent event FMLPostInitializationEvent to mod Enchiridion
+[15:56:37] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Enchiridion took 0.118s
+[15:56:37] [Client thread/TRACE] [Enchiridion2/Enchiridion2]: Sending event FMLPostInitializationEvent to mod Enchiridion2
+[15:56:37] [Client thread/DEBUG] [FML/Enchiridion2]: Bar Finished: Loading Resource - WikiFont took 0.009s
+[15:56:37] [Client thread/TRACE] [Enchiridion2/Enchiridion2]: Sent event FMLPostInitializationEvent to mod Enchiridion2
+[15:56:37] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Enchiridion 2 took 0.043s
+[15:56:37] [Client thread/TRACE] [endercore/endercore]: Sending event FMLPostInitializationEvent to mod endercore
+[15:56:37] [Client thread/TRACE] [endercore/endercore]: Sent event FMLPostInitializationEvent to mod endercore
+[15:56:37] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - EnderCore took 0.137s
+[15:56:37] [Client thread/TRACE] [Thaumcraft/Thaumcraft]: Sending event FMLPostInitializationEvent to mod Thaumcraft
+---snip---
+[15:56:43] [Client thread/TRACE] [Thaumcraft/Thaumcraft]: Sent event FMLPostInitializationEvent to mod Thaumcraft
+[15:56:43] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Thaumcraft took 5.037s
+[15:56:43] [Client thread/TRACE] [EnderIO/EnderIO]: Sending event FMLPostInitializationEvent to mod EnderIO
+---snip---
+[15:56:50] [Client thread/TRACE] [EnderIO/EnderIO]: Sent event FMLPostInitializationEvent to mod EnderIO
+[15:56:50] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Ender IO took 7.797s
+[15:56:50] [Client thread/TRACE] [EnderTech/EnderTech]: Sending event FMLPostInitializationEvent to mod EnderTech
+[15:56:50] [Client thread/INFO] [EnderTech/EnderTech]: Registering recipes
+[15:56:50] [Client thread/TRACE] [EnderTech/EnderTech]: Sent event FMLPostInitializationEvent to mod EnderTech
+[15:56:50] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - EnderTech took 0.063s
+[15:56:50] [Client thread/TRACE] [EnderZoo/EnderZoo]: Sending event FMLPostInitializationEvent to mod EnderZoo
+[15:56:51] [Client thread/INFO] [EnderZoo/EnderZoo]: Loaded 5 entries from core spawn config.
+[15:56:51] [Client thread/INFO] [EnderZoo/EnderZoo]: Loaded 10 entries from user spawn config.
+---snip---
+[15:56:51] [Client thread/INFO] [EnderZoo/EnderZoo]: Applying 5 spawn entries from config.
+[15:56:51] [Client thread/TRACE] [EnderZoo/EnderZoo]: Sent event FMLPostInitializationEvent to mod EnderZoo
+[15:56:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Ender Zoo took 0.302s
+[15:56:51] [Client thread/TRACE] [enhancedportals/enhancedportals]: Sending event FMLPostInitializationEvent to mod enhancedportals
+[15:56:51] [Client thread/TRACE] [enhancedportals/enhancedportals]: Sent event FMLPostInitializationEvent to mod enhancedportals
+[15:56:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - EnhancedPortals took 0.048s
+[15:56:51] [Client thread/TRACE] [evilcraft/evilcraft]: Sending event FMLPostInitializationEvent to mod evilcraft
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: postInit()
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Added entity class net.minecraft.entity.passive.EntityBat to the spirit blacklist.
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Added entity class buildcraft.robotics.EntityRobot to the spirit blacklist.
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Added entity class net.minecraft.entity.boss.EntityDragon to the spirit blacklist.
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Added entity class pneumaticCraft.common.entity.living.EntityDrone to the spirit blacklist.
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Added entity class pneumaticCraft.common.entity.living.EntityLogisticsDrone to the spirit blacklist.
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Added entity class net.minecraft.entity.monster.EntitySkeleton to the spirit blacklist.
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Added entity class trapcraft.common.entity.EntityDummy to the spirit blacklist.
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Added entity class com.domochevsky.quiverbow.ArmsAssistant.Entity_AA to the spirit blacklist.
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Added entity class evilcraft.entity.monster.VengeanceSpirit to the spirit blacklist.
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Added entity class evilcraft.entity.monster.ControlledZombie to the spirit blacklist.
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for ic2superheatedsteam with ratio 0.001
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for ic2steam with ratio 0.001
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for steam with ratio 0.001
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for ic2hotwater with ratio 0.005
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for water with ratio 0.01
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for ic2distilledwater with ratio 0.02
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for pinkslime with ratio 0.3
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for redplasma with ratio 0.5
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for evilcraftblood with ratio 1.0
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for immibis.liquidxp with ratio 1.5
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for mobessence with ratio 1.5
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for xpjuice with ratio 1.5
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for life essence with ratio 2.0
+[15:56:51] [Client thread/INFO] [EvilCraft/evilcraft]: Register fluid conversion for nutrient_distillation with ratio 2.0
+[15:56:51] [Client thread/TRACE] [evilcraft/evilcraft]: Sent event FMLPostInitializationEvent to mod evilcraft
+[15:56:51] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - EvilCraft took 0.142s
+[15:56:51] [Client thread/TRACE] [exnihilo/exnihilo]: Sending event FMLPostInitializationEvent to mod exnihilo
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: +++ - Found IC2!
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: Sulfur was successfully integrated
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: Rubber was successfully integrated
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: Crushed Ores were successfully integrated
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: Plantball was successfully integrated
+[15:56:51] [Client thread/ERROR] [Ex Nihilo/exnihilo]: COMPRESSED PLANTS WERE NOT INTEGRATED
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: Macerator: removed default cobble->sand Macerator recipe
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: Macerator: removed default gravel->flint Macerator recipe
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: Macerator: added recipe for cobble->gravel
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: Macerator: added recipe for gravel->sand
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: Macerator: added recipe sand->dust
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: --- IC2 Integration Complete!
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: +++ - Found Forestry!
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: Apatite was successfully integrated
+[15:56:51] [Client thread/INFO] [Ex Nihilo/exnihilo]: Beginning Hive Registry...
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: Compatibility OK!: Forestry Bees
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: Compatibility FAIL!: Extra Bees
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: Compatibility FAIL!: Magic Bees
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: Hive Registry Completed!
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: Recipes sucessfully added
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: --- Forestry Integration Complete!
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: +++ - Found ThermalExpansion!
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: Pulverizer: overwrote the cobble->sand recipe with cobble->gravel
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: Pulverizer: added recipe for gravel->sand
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: Pulverizer: added recipe for sand->dust
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: Added blazing pyrotheum as a crucible heat source
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: --- Thermal Expansion Integration Complete!
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: +++ - Found AE2!
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: Certus Quartz was successfully integrated
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: Skystone was successfully integrated
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: --- AE2 Integration Complete!
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: +++ - Found MineFactory Reloaded!
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: Rubber Tree saplings were successfuly integrated
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: --- MineFactory Reloaded Integration Complete!
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: +++ - Found Tinkers Construct!
+[15:56:52] [Client thread/INFO] [Ex Nihilo/exnihilo]: --- Tinkers Construct Integration Complete!
+[15:56:52] [Client thread/TRACE] [exnihilo/exnihilo]: Sent event FMLPostInitializationEvent to mod exnihilo
+[15:56:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Ex Nihilo took 0.739s
+[15:56:52] [Client thread/TRACE] [exastris/exastris]: Sending event FMLPostInitializationEvent to mod exastris
+[15:56:52] [Client thread/INFO] [Ex Astris/exastris]: +++ - Found ThermalExpansion!
+[15:56:52] [Client thread/INFO] [Ex Astris/exastris]: +++ - Found Thaumcraft!
+[15:56:52] [Client thread/INFO] [Ex Astris/exastris]: +++ - Found TConstruct!
+[15:56:52] [Client thread/INFO] [Ex Astris/exastris]: +++ - Found MineFactoryReloaded!
+[15:56:52] [Client thread/INFO] [Ex Astris/exastris]: +++ - Found Blood Magic!
+[15:56:52] [Client thread/TRACE] [exastris/exastris]: Sent event FMLPostInitializationEvent to mod exastris
+[15:56:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Ex Astris took 0.039s
+[15:56:52] [Client thread/TRACE] [extracells/extracells]: Sending event FMLPostInitializationEvent to mod extracells
+[15:56:52] [Client thread/TRACE] [extracells/extracells]: Sent event FMLPostInitializationEvent to mod extracells
+[15:56:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Extra Cells 2 took 0.001s
+[15:56:52] [Client thread/TRACE] [FastCraft/FastCraft]: Sending event FMLPostInitializationEvent to mod FastCraft
+[15:56:52] [Client thread/TRACE] [FastCraft/FastCraft]: Sent event FMLPostInitializationEvent to mod FastCraft
+[15:56:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - FastCraft took 0.001s
+[15:56:52] [Client thread/TRACE] [FlatBedrockx/FlatBedrockx]: Sending event FMLPostInitializationEvent to mod FlatBedrockx
+[15:56:52] [Client thread/TRACE] [FlatBedrockx/FlatBedrockx]: Sent event FMLPostInitializationEvent to mod FlatBedrockx
+[15:56:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - FlatBedrock Xplosion's Edition took 0.001s
+[15:56:52] [Client thread/TRACE] [ganysend/ganysend]: Sending event FMLPostInitializationEvent to mod ganysend
+[15:56:52] [Client thread/TRACE] [ganysend/ganysend]: Sent event FMLPostInitializationEvent to mod ganysend
+[15:56:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Gany's End took 0.186s
+[15:56:52] [Client thread/TRACE] [ganysnether/ganysnether]: Sending event FMLPostInitializationEvent to mod ganysnether
+[15:56:52] [Client thread/TRACE] [ganysnether/ganysnether]: Sent event FMLPostInitializationEvent to mod ganysnether
+[15:56:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Gany's Nether took 0.006s
+[15:56:52] [Client thread/TRACE] [ganyssurface/ganyssurface]: Sending event FMLPostInitializationEvent to mod ganyssurface
+[15:56:52] [Client thread/TRACE] [ganyssurface/ganyssurface]: Sent event FMLPostInitializationEvent to mod ganyssurface
+[15:56:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Gany's Surface took 0.015s
+[15:56:52] [Client thread/TRACE] [guideapi/guideapi]: Sending event FMLPostInitializationEvent to mod guideapi
+[15:56:52] [Client thread/TRACE] [guideapi/guideapi]: Sent event FMLPostInitializationEvent to mod guideapi
+[15:56:52] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Guide-API took 0.033s
+[15:56:52] [Client thread/TRACE] [IGWMod/IGWMod]: Sending event FMLPostInitializationEvent to mod IGWMod
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.lang.NoSuchMethodError: ic2.api.item.IElectricItemManager.charge(Lnet/minecraft/item/ItemStack;IIZZ)I
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at aroma1997.ic2recharger.ItemRecharger.func_150895_a(ItemRecharger.java:82)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at igwmod.ClientProxy.addDefaultKeys(ClientProxy.java:116)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at igwmod.ClientProxy.postInit(ClientProxy.java:103)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at igwmod.IGWMod.postInit(IGWMod.java:97)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.client.main.Main.main(SourceFile:148)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.lang.NoSuchMethodError: ic2.api.item.IElectricItemManager.charge(Lnet/minecraft/item/ItemStack;IIZZ)I
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at aroma1997.ic2recharger.ItemRecharger.func_150895_a(ItemRecharger.java:82)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at igwmod.ClientProxy.addDefaultKeys(ClientProxy.java:116)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at igwmod.ClientProxy.postInit(ClientProxy.java:103)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at igwmod.IGWMod.postInit(IGWMod.java:97)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.client.main.Main.main(SourceFile:148)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.lang.NoSuchMethodError: ic2.api.item.IElectricItemManager.charge(Lnet/minecraft/item/ItemStack;IIZZ)I
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at aroma1997.ic2recharger.ItemRecharger.func_150895_a(ItemRecharger.java:82)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at igwmod.ClientProxy.addDefaultKeys(ClientProxy.java:116)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at igwmod.ClientProxy.postInit(ClientProxy.java:103)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at igwmod.IGWMod.postInit(IGWMod.java:97)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.client.main.Main.main(SourceFile:148)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: java.lang.NoSuchMethodError: ic2.api.item.IElectricItemManager.charge(Lnet/minecraft/item/ItemStack;IIZZ)I
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at aroma1997.ic2recharger.ItemRecharger.func_150895_a(ItemRecharger.java:82)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at igwmod.ClientProxy.addDefaultKeys(ClientProxy.java:116)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at igwmod.ClientProxy.postInit(ClientProxy.java:103)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at igwmod.IGWMod.postInit(IGWMod.java:97)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:53] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.client.main.Main.main(SourceFile:148)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[15:56:54] [Client thread/INFO] [STDERR/IGWMod]: [java.lang.Throwable$WrappedPrintStream:println:-1]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[15:56:59] [Client thread/INFO] [IGWMod/IGWMod]: Registered 203 Block & Item page entries.
+[15:56:59] [Client thread/INFO] [IGWMod/IGWMod]: Registered 1 Entity page entries.
+[15:56:59] [Client thread/TRACE] [IGWMod/IGWMod]: Sent event FMLPostInitializationEvent to mod IGWMod
+[15:56:59] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - In-Game wiki Mod took 6.993s
+[15:56:59] [Client thread/TRACE] [intellie/intellie]: Sending event FMLPostInitializationEvent to mod intellie
+[15:56:59] [Client thread/TRACE] [intellie/intellie]: Sent event FMLPostInitializationEvent to mod intellie
+[15:56:59] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - IntelliE took 0.013s
+[15:56:59] [Client thread/TRACE] [appaero/appaero]: Sending event FMLPostInitializationEvent to mod appaero
+[15:56:59] [Client thread/INFO] [Aero/appaero]: PostInit Begin
+[15:56:59] [Client thread/INFO] [Aero/appaero]: PostInit End (26.84 ?s)
+[15:56:59] [Client thread/TRACE] [appaero/appaero]: Sent event FMLPostInitializationEvent to mod appaero
+[15:56:59] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - AppliedAerodynamics took 0.002s
+[15:56:59] [Client thread/TRACE] [appaeronei/appaeronei]: Sending event FMLPostInitializationEvent to mod appaeronei
+[15:56:59] [Client thread/TRACE] [appaeronei/appaeronei]: Sent event FMLPostInitializationEvent to mod appaeronei
+[15:56:59] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - AppliedAerodynamicsNEI took 0.001s
+[15:56:59] [Client thread/TRACE] [inventorytweaks/inventorytweaks]: Sending event FMLPostInitializationEvent to mod inventorytweaks
+[15:56:59] [Client thread/TRACE] [inventorytweaks/inventorytweaks]: Sent event FMLPostInitializationEvent to mod inventorytweaks
+[15:56:59] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Inventory Tweaks took 0.001s
+[15:56:59] [Client thread/TRACE] [ironbackpacks/ironbackpacks]: Sending event FMLPostInitializationEvent to mod ironbackpacks
+[15:56:59] [Client thread/TRACE] [ironbackpacks/ironbackpacks]: Sent event FMLPostInitializationEvent to mod ironbackpacks
+[15:56:59] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Iron Backpacks took 0.002s
+[15:56:59] [Client thread/TRACE] [IronChest/IronChest]: Sending event FMLPostInitializationEvent to mod IronChest
+[15:56:59] [Client thread/TRACE] [IronChest/IronChest]: Sent event FMLPostInitializationEvent to mod IronChest
+[15:56:59] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Iron Chest took 0.001s
+[15:56:59] [Client thread/TRACE] [journeymap/journeymap]: Sending event FMLPostInitializationEvent to mod journeymap
+[15:56:59] [Client thread/INFO] [journeymap/journeymap]: postInitialize ENTER
+[15:56:59] [Client thread/DEBUG] [journeymap/journeymap]: net.techbrew.journeymap.forge.event.ChatEventHandler registered in MinecraftForgeBus
+[15:56:59] [Client thread/DEBUG] [journeymap/journeymap]: net.techbrew.journeymap.forge.event.StateTickHandler registered in FMLCommonHandlerBus
+[15:56:59] [Client thread/DEBUG] [journeymap/journeymap]: net.techbrew.journeymap.forge.event.WorldEventHandler registered in MinecraftForgeBus
+[15:56:59] [Client thread/DEBUG] [journeymap/journeymap]: net.techbrew.journeymap.forge.event.ChunkUpdateHandler registered in MinecraftForgeBus
+[15:56:59] [Client thread/DEBUG] [journeymap/journeymap]: net.techbrew.journeymap.forge.event.WaypointBeaconHandler registered in MinecraftForgeBus
+[15:56:59] [Client thread/INFO] [journeymap/journeymap]: Registered channel: world_info
+[15:57:00] [Client thread/INFO] [journeymap/journeymap]: Registered IModBlockHandler for: 'CarpentersBlocks:blockCarpentersBlock, CarpentersBlocks:blockCarpentersBarrier, CarpentersBlocks:blockCarpentersBed, CarpentersBlocks:blockCarpentersCollapsibleBlock, CarpentersBlocks:blockCarpentersDaylightSensor, CarpentersBlocks:blockCarpentersDoor, CarpentersBlocks:blockCarpentersFlowerPot, CarpentersBlocks:blockCarpentersGarageDoor, CarpentersBlocks:blockCarpentersGate, CarpentersBlocks:blockCarpentersHatch, CarpentersBlocks:blockCarpentersPressurePlate, CarpentersBlocks:blockCarpentersSafe, CarpentersBlocks:blockCarpentersSlope, CarpentersBlocks:blockCarpentersStairs'.
+[15:57:00] [Client thread/DEBUG] [FML/journeymap]: Bar Finished: Loading Resource - ResourceManagerHandler took 0.564s
+[15:57:00] [Client thread/DEBUG] [journeymap/journeymap]: net.techbrew.journeymap.forge.event.MiniMapOverlayHandler registered in MinecraftForgeBus
+[15:57:00] [Client thread/DEBUG] [journeymap/journeymap]: net.techbrew.journeymap.forge.event.KeyEventHandler registered in FMLCommonHandlerBus
+[15:57:00] [Client thread/INFO] [journeymap/journeymap]: Initializing icon sets...
+[15:57:01] [Client thread/TRACE] [journeymap/journeymap]: Initializing themes ...
+[15:57:01] [Client thread/DEBUG] [journeymap/journeymap]: Saved journeymap.webmap.config
+[15:57:01] [Client thread/DEBUG] [journeymap/journeymap]: elapsed was slow: 2396.323997
+[15:57:01] [Client thread/INFO] [journeymap/journeymap]: postInitialize EXIT, elapsedǸ count Ȳ1Ǹ avg ȲȲ2396.32ǸmsȲ
+[15:57:01] [Client thread/TRACE] [journeymap/journeymap]: Sent event FMLPostInitializationEvent to mod journeymap
+[15:57:01] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - JourneyMap took 2.406s
+[15:57:01] [Client thread/TRACE] [LiquidXP/LiquidXP]: Sending event FMLPostInitializationEvent to mod LiquidXP
+[15:57:01] [Client thread/TRACE] [LiquidXP/LiquidXP]: Sent event FMLPostInitializationEvent to mod LiquidXP
+[15:57:01] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Liquid XP took 0.001s
+[15:57:01] [Client thread/TRACE] [LunatriusCore/LunatriusCore]: Sending event FMLPostInitializationEvent to mod LunatriusCore
+[15:57:01] [Client thread/TRACE] [LunatriusCore/LunatriusCore]: Sent event FMLPostInitializationEvent to mod LunatriusCore
+[15:57:01] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - LunatriusCore took 0.001s
+[15:57:01] [Client thread/TRACE] [more/more]: Sending event FMLPostInitializationEvent to mod more
+[15:57:01] [Client thread/TRACE] [more/more]: Sent event FMLPostInitializationEvent to mod more
+[15:57:01] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - M-Ore mod took 0.001s
+[15:57:01] [Client thread/TRACE] [magicalcrops/magicalcrops]: Sending event FMLPostInitializationEvent to mod magicalcrops
+[15:57:01] [Client thread/TRACE] [magicalcrops/magicalcrops]: Sent event FMLPostInitializationEvent to mod magicalcrops
+[15:57:01] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Magical Crops took 0.001s
+[15:57:01] [Client thread/TRACE] [magicclover/magicclover]: Sending event FMLPostInitializationEvent to mod magicclover
+[15:57:02] [Client thread/TRACE] [magicclover/magicclover]: Sent event FMLPostInitializationEvent to mod magicclover
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Magic Clover took 1.035s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatAppliedEnergistics/MineFactoryReloaded|CompatAppliedEnergistics]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatAppliedEnergistics
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatAppliedEnergistics/MineFactoryReloaded|CompatAppliedEnergistics]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatAppliedEnergistics
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: Applied Energistics took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatAtum/MineFactoryReloaded|CompatAtum]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatAtum
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatAtum/MineFactoryReloaded|CompatAtum]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatAtum
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: Atum took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatBackTools/MineFactoryReloaded|CompatBackTools]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatBackTools
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatBackTools/MineFactoryReloaded|CompatBackTools]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatBackTools
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: BackTools took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatBuildCraft/MineFactoryReloaded|CompatBuildCraft]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatBuildCraft
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatBuildCraft/MineFactoryReloaded|CompatBuildCraft]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatBuildCraft
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: BuildCraft took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatChococraft/MineFactoryReloaded|CompatChococraft]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatChococraft
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatChococraft/MineFactoryReloaded|CompatChococraft]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatChococraft
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: Chococraft took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatExtraBiomes/MineFactoryReloaded|CompatExtraBiomes]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatExtraBiomes
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatExtraBiomes/MineFactoryReloaded|CompatExtraBiomes]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatExtraBiomes
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: ExtraBiomes took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatForestry/MineFactoryReloaded|CompatForestry]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatForestry
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatForestry/MineFactoryReloaded|CompatForestry]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatForestry
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: Forestry took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatForgeMicroblock/MineFactoryReloaded|CompatForgeMicroblock]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatForgeMicroblock
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatForgeMicroblock/MineFactoryReloaded|CompatForgeMicroblock]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatForgeMicroblock
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: ForgeMicroblock took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatIC2/MineFactoryReloaded|CompatIC2]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatIC2
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatIC2/MineFactoryReloaded|CompatIC2]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatIC2
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: IC2 took 0.013s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatMystcraft/MineFactoryReloaded|CompatMystcraft]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatMystcraft
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatMystcraft/MineFactoryReloaded|CompatMystcraft]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatMystcraft
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: Mystcraft took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatProjRed/MineFactoryReloaded|CompatProjRed]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatProjRed
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatProjRed/MineFactoryReloaded|CompatProjRed]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatProjRed
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat ProjectRed took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatRailcraft/MineFactoryReloaded|CompatRailcraft]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatRailcraft
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatRailcraft/MineFactoryReloaded|CompatRailcraft]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatRailcraft
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: Railcraft took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatSufficientBiomes/MineFactoryReloaded|CompatSufficientBiomes]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatSufficientBiomes
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatSufficientBiomes/MineFactoryReloaded|CompatSufficientBiomes]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatSufficientBiomes
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: Sufficient Biomes took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatThaumcraft/MineFactoryReloaded|CompatThaumcraft]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatThaumcraft
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatThaumcraft/MineFactoryReloaded|CompatThaumcraft]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatThaumcraft
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: Thaumcraft took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatThermalExpansion/MineFactoryReloaded|CompatThermalExpansion]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatThermalExpansion
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatThermalExpansion/MineFactoryReloaded|CompatThermalExpansion]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatThermalExpansion
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: Thermal Expansion took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatTConstruct/MineFactoryReloaded|CompatTConstruct]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatTConstruct
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatTConstruct/MineFactoryReloaded|CompatTConstruct]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatTConstruct
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: Tinkers' Construct took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatTwilightForest/MineFactoryReloaded|CompatTwilightForest]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatTwilightForest
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatTwilightForest/MineFactoryReloaded|CompatTwilightForest]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatTwilightForest
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: TwilightForest took 0.001s
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatVanilla/MineFactoryReloaded|CompatVanilla]: Sending event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatVanilla
+[15:57:02] [Client thread/DEBUG] [CoFH ASM/MineFactoryReloaded|CompatVanilla]: Stripping methods and fields from powercrystals.minefactoryreloaded.core.UtilInventory
+[15:57:02] [Client thread/DEBUG] [CoFH ASM/MineFactoryReloaded|CompatVanilla]: Nothing stripped from powercrystals.minefactoryreloaded.core.UtilInventory
+[15:57:02] [Client thread/TRACE] [MineFactoryReloaded|CompatVanilla/MineFactoryReloaded|CompatVanilla]: Sent event FMLPostInitializationEvent to mod MineFactoryReloaded|CompatVanilla
+[15:57:02] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MFR Compat: Vanilla took 0.049s
+[15:57:02] [Client thread/TRACE] [MineTweaker3/MineTweaker3]: Sending event FMLPostInitializationEvent to mod MineTweaker3
+[15:57:03] [Client thread/INFO] [STDOUT/MineTweaker3]: [minetweaker.MineTweakerAPI:registerClassRegistry:281]: Loaded class registry: IC2 mod support
+[15:57:03] [Client thread/INFO] [STDOUT/MineTweaker3]: [minetweaker.MineTweakerAPI:registerClassRegistry:281]: Loaded class registry: NEI mod support
+[15:57:03] [Client thread/INFO] [STDOUT/MineTweaker3]: [minetweaker.MineTweakerAPI:registerClassRegistry:281]: Loaded class registry: MFR mod support
+[15:57:03] [Client thread/INFO] [STDOUT/MineTweaker3]: [minetweaker.MineTweakerAPI:registerClassRegistry:281]: Loaded class registry: Buildcraft mod support
+[15:57:03] [Client thread/TRACE] [MineTweaker3/MineTweaker3]: Sent event FMLPostInitializationEvent to mod MineTweaker3
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - MineTweaker 3 took 0.831s
+[15:57:03] [Client thread/TRACE] [modtweaker2/modtweaker2]: Sending event FMLPostInitializationEvent to mod modtweaker2
+[15:57:03] [Client thread/INFO] [modtweaker2/modtweaker2]: Starting PostInitialization for modtweaker2
+[15:57:03] [Client thread/TRACE] [modtweaker2/modtweaker2]: Sent event FMLPostInitializationEvent to mod modtweaker2
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Mod Tweaker 2 took 0.002s
+[15:57:03] [Client thread/TRACE] [MoreFurnaces/MoreFurnaces]: Sending event FMLPostInitializationEvent to mod MoreFurnaces
+[15:57:03] [Client thread/TRACE] [MoreFurnaces/MoreFurnaces]: Sent event FMLPostInitializationEvent to mod MoreFurnaces
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - More Furnaces took 0.001s
+[15:57:03] [Client thread/TRACE] [movillages/movillages]: Sending event FMLPostInitializationEvent to mod movillages
+[15:57:03] [Client thread/TRACE] [movillages/movillages]: Sent event FMLPostInitializationEvent to mod movillages
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Mo' Villages took 0.001s
+[15:57:03] [Client thread/TRACE] [NEIAddons/NEIAddons]: Sending event FMLPostInitializationEvent to mod NEIAddons
+[15:57:03] [Client thread/TRACE] [NEIAddons/NEIAddons]: Sent event FMLPostInitializationEvent to mod NEIAddons
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - NEI Addons took 0.007s
+[15:57:03] [Client thread/TRACE] [NEIAddons|Developer/NEIAddons|Developer]: Sending event FMLPostInitializationEvent to mod NEIAddons|Developer
+[15:57:03] [Client thread/TRACE] [NEIAddons|Developer/NEIAddons|Developer]: Sent event FMLPostInitializationEvent to mod NEIAddons|Developer
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - NEI Addons: Developer Tools took 0.001s
+[15:57:03] [Client thread/TRACE] [NEIAddons|AppEng/NEIAddons|AppEng]: Sending event FMLPostInitializationEvent to mod NEIAddons|AppEng
+[15:57:03] [Client thread/TRACE] [NEIAddons|AppEng/NEIAddons|AppEng]: Sent event FMLPostInitializationEvent to mod NEIAddons|AppEng
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - NEI Addons: Applied Energistics 2 took 0.001s
+[15:57:03] [Client thread/TRACE] [NEIAddons|Botany/NEIAddons|Botany]: Sending event FMLPostInitializationEvent to mod NEIAddons|Botany
+[15:57:03] [Client thread/TRACE] [NEIAddons|Botany/NEIAddons|Botany]: Sent event FMLPostInitializationEvent to mod NEIAddons|Botany
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - NEI Addons: Botany took 0.001s
+[15:57:03] [Client thread/TRACE] [NEIAddons|Forestry/NEIAddons|Forestry]: Sending event FMLPostInitializationEvent to mod NEIAddons|Forestry
+[15:57:03] [Client thread/TRACE] [NEIAddons|Forestry/NEIAddons|Forestry]: Sent event FMLPostInitializationEvent to mod NEIAddons|Forestry
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - NEI Addons: Forestry took 0.001s
+[15:57:03] [Client thread/TRACE] [NEIAddons|CraftingTables/NEIAddons|CraftingTables]: Sending event FMLPostInitializationEvent to mod NEIAddons|CraftingTables
+[15:57:03] [Client thread/TRACE] [NEIAddons|CraftingTables/NEIAddons|CraftingTables]: Sent event FMLPostInitializationEvent to mod NEIAddons|CraftingTables
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - NEI Addons: Crafting Tables took 0.001s
+[15:57:03] [Client thread/TRACE] [NEIAddons|ExNihilo/NEIAddons|ExNihilo]: Sending event FMLPostInitializationEvent to mod NEIAddons|ExNihilo
+[15:57:03] [Client thread/TRACE] [NEIAddons|ExNihilo/NEIAddons|ExNihilo]: Sent event FMLPostInitializationEvent to mod NEIAddons|ExNihilo
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - NEI Addons: Ex Nihilo took 0.001s
+[15:57:03] [Client thread/TRACE] [neiintegration/neiintegration]: Sending event FMLPostInitializationEvent to mod neiintegration
+[15:57:03] [Client thread/TRACE] [neiintegration/neiintegration]: Sent event FMLPostInitializationEvent to mod neiintegration
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - NEI Integration took 0.001s
+[15:57:03] [Client thread/TRACE] [ObsidianBoat/ObsidianBoat]: Sending event FMLPostInitializationEvent to mod ObsidianBoat
+[15:57:03] [Client thread/TRACE] [ObsidianBoat/ObsidianBoat]: Sent event FMLPostInitializationEvent to mod ObsidianBoat
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Obsidian Boat took 0.001s
+[15:57:03] [Client thread/TRACE] [OpenMods/OpenMods]: Sending event FMLPostInitializationEvent to mod OpenMods
+[15:57:03] [Client thread/INFO] [OpenMods/OpenMods]: openmods.integration.Integration.loadModules(Integration.java:32): Condition no met for integration module 'OpenBlocks adapters for OpenPeripheral', not loading
+[15:57:03] [Client thread/INFO] [OpenMods/OpenMods]: openmods.integration.Integration.loadModules(Integration.java:32): Condition no met for integration module 'OpenBlocks turtles', not loading
+[15:57:03] [Client thread/INFO] [OpenMods/OpenMods]: openmods.integration.Integration.loadModules(Integration.java:30): Loaded integration module 'BuildCraft pipes'
+[15:57:03] [Client thread/TRACE] [OpenMods/OpenMods]: Sent event FMLPostInitializationEvent to mod OpenMods
+[15:57:03] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - OpenMods took 0.226s
+[15:57:03] [Client thread/TRACE] [OpenBlocks/OpenBlocks]: Sending event FMLPostInitializationEvent to mod OpenBlocks
+[15:57:04] [Client thread/DEBUG] [OpenMods/OpenBlocks]: openblocks.enchantments.flimflams.FlimFlamRegistry$FlimFlamChecker.loadList(FlimFlamRegistry.java:41): Blacklisting/Whitelisting flim-flams []
+[15:57:04] [Client thread/TRACE] [OpenBlocks/OpenBlocks]: Sent event FMLPostInitializationEvent to mod OpenBlocks
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - OpenBlocks took 0.257s
+[15:57:04] [Client thread/TRACE] [oredowsing/oredowsing]: Sending event FMLPostInitializationEvent to mod oredowsing
+[15:57:04] [Client thread/TRACE] [oredowsing/oredowsing]: Sent event FMLPostInitializationEvent to mod oredowsing
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Ore Dowsing took 0.001s
+[15:57:04] [Client thread/TRACE] [origin/origin]: Sending event FMLPostInitializationEvent to mod origin
+[15:57:04] [Client thread/TRACE] [origin/origin]: Sent event FMLPostInitializationEvent to mod origin
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Origin took 0.016s
+[15:57:04] [Client thread/TRACE] [PneumaticCraft/PneumaticCraft]: Sending event FMLPostInitializationEvent to mod PneumaticCraft
+[15:57:04] [Client thread/INFO] [FML/PneumaticCraft]: InvTweaks: net.minecraft.client.gui.GuiTextField
+[15:57:04] [Client thread/INFO] [FML/PneumaticCraft]: InvTweaks: successfully transformed setFocused/func_146195_b
+[15:57:04] [Client thread/TRACE] [PneumaticCraft/PneumaticCraft]: Sent event FMLPostInitializationEvent to mod PneumaticCraft
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - PneumaticCraft took 0.420s
+[15:57:04] [Client thread/TRACE] [Aroma1997sPortableRecharger/Aroma1997sPortableRecharger]: Sending event FMLPostInitializationEvent to mod Aroma1997sPortableRecharger
+[15:57:04] [Client thread/TRACE] [Aroma1997sPortableRecharger/Aroma1997sPortableRecharger]: Sent event FMLPostInitializationEvent to mod Aroma1997sPortableRecharger
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Aroma1997s Portable Recharger took 0.001s
+[15:57:04] [Client thread/TRACE] [JotatosPracticalities/JotatosPracticalities]: Sending event FMLPostInitializationEvent to mod JotatosPracticalities
+[15:57:04] [Client thread/TRACE] [JotatosPracticalities/JotatosPracticalities]: Sent event FMLPostInitializationEvent to mod JotatosPracticalities
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Practicalities took 0.001s
+[15:57:04] [Client thread/TRACE] [pressure/pressure]: Sending event FMLPostInitializationEvent to mod pressure
+[15:57:04] [Client thread/INFO] [pressure/pressure]: Loading EnderIO compatibility...
+[15:57:04] [Client thread/INFO] [pressure/pressure]: TCB=class crazypants.enderio.conduit.TileConduitBundle
+[15:57:04] [Client thread/INFO] [pressure/pressure]: LC=class crazypants.enderio.conduit.liquid.LiquidConduit
+[15:57:04] [Client thread/INFO] [pressure/pressure]: ALC=class crazypants.enderio.conduit.liquid.AdvancedLiquidConduit
+[15:57:04] [Client thread/TRACE] [pressure/pressure]: Sent event FMLPostInitializationEvent to mod pressure
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Pressure Pipes took 0.074s
+[15:57:04] [Client thread/TRACE] [quiverchevsky/quiverchevsky]: Sending event FMLPostInitializationEvent to mod quiverchevsky
+[15:57:04] [Client thread/TRACE] [quiverchevsky/quiverchevsky]: Sent event FMLPostInitializationEvent to mod quiverchevsky
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - QuiverBow took 0.003s
+[15:57:04] [Client thread/TRACE] [RandomThings/RandomThings]: Sending event FMLPostInitializationEvent to mod RandomThings
+[15:57:04] [Client thread/TRACE] [RandomThings/RandomThings]: Sent event FMLPostInitializationEvent to mod RandomThings
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Random Things took 0.068s
+[15:57:04] [Client thread/TRACE] [RedstonePasteMod/RedstonePasteMod]: Sending event FMLPostInitializationEvent to mod RedstonePasteMod
+[15:57:04] [Client thread/TRACE] [RedstonePasteMod/RedstonePasteMod]: Sent event FMLPostInitializationEvent to mod RedstonePasteMod
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Redstone Paste took 0.001s
+[15:57:04] [Client thread/TRACE] [RefinedRelocation/RefinedRelocation]: Sending event FMLPostInitializationEvent to mod RefinedRelocation
+[15:57:04] [Client thread/TRACE] [RefinedRelocation/RefinedRelocation]: Sent event FMLPostInitializationEvent to mod RefinedRelocation
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Refined Relocation took 0.001s
+[15:57:04] [Client thread/TRACE] [SolarFlux/SolarFlux]: Sending event FMLPostInitializationEvent to mod SolarFlux
+[15:57:04] [Client thread/TRACE] [SolarFlux/SolarFlux]: Sent event FMLPostInitializationEvent to mod SolarFlux
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Solar Flux took 0.001s
+[15:57:04] [Client thread/TRACE] [Stackie/Stackie]: Sending event FMLPostInitializationEvent to mod Stackie
+[15:57:04] [Client thread/TRACE] [Stackie/Stackie]: Sent event FMLPostInitializationEvent to mod Stackie
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Stackie took 0.001s
+[15:57:04] [Client thread/TRACE] [StevesCarts/StevesCarts]: Sending event FMLPostInitializationEvent to mod StevesCarts
+[15:57:04] [Client thread/TRACE] [StevesCarts/StevesCarts]: Sent event FMLPostInitializationEvent to mod StevesCarts
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Steve's Carts 2 took 0.001s
+[15:57:04] [Client thread/TRACE] [StevesFactoryManager/StevesFactoryManager]: Sending event FMLPostInitializationEvent to mod StevesFactoryManager
+[15:57:04] [Client thread/TRACE] [StevesFactoryManager/StevesFactoryManager]: Sent event FMLPostInitializationEvent to mod StevesFactoryManager
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Steve's Factory Manager took 0.065s
+[15:57:04] [Client thread/TRACE] [StevesWorkshop/StevesWorkshop]: Sending event FMLPostInitializationEvent to mod StevesWorkshop
+[15:57:04] [Client thread/TRACE] [StevesWorkshop/StevesWorkshop]: Sent event FMLPostInitializationEvent to mod StevesWorkshop
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Steve's Workshop took 0.001s
+[15:57:04] [Client thread/TRACE] [StorageDrawers/StorageDrawers]: Sending event FMLPostInitializationEvent to mod StorageDrawers
+[15:57:04] [Client thread/TRACE] [StorageDrawers/StorageDrawers]: Sent event FMLPostInitializationEvent to mod StorageDrawers
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Storage Drawers took 0.053s
+[15:57:04] [Client thread/TRACE] [thaumcraftneiplugin/thaumcraftneiplugin]: Sending event FMLPostInitializationEvent to mod thaumcraftneiplugin
+[15:57:04] [Client thread/TRACE] [thaumcraftneiplugin/thaumcraftneiplugin]: Sent event FMLPostInitializationEvent to mod thaumcraftneiplugin
+[15:57:04] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Thaumcraft NEI Plugin took 0.001s
+[15:57:04] [Client thread/TRACE] [thaumicenergistics/thaumicenergistics]: Sending event FMLPostInitializationEvent to mod thaumicenergistics
+[15:57:04] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Starting (PostInit)
+[15:57:04] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Added class thaumcraft.common.tiles.TileAlembic with capacity 32 to extraction whitelist.
+[15:57:04] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Added class thaumcraft.common.tiles.TileCentrifuge with capacity 0 to extraction whitelist.
+[15:57:04] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Added class thaumcraft.common.tiles.TileJarFillable with capacity 64 to injection whitelist.
+[15:57:04] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Added class thaumcraft.common.tiles.TileJarFillable with capacity 64 to extraction whitelist.
+[15:57:04] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Added class thaumcraft.common.tiles.TileTubeBuffer with capacity 8 to extraction whitelist.
+[15:57:04] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Added class thaumcraft.common.tiles.TileEssentiaReservoir with capacity 256 to injection whitelist.
+[15:57:04] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Added class thaumcraft.common.tiles.TileEssentiaReservoir with capacity 256 to extraction whitelist.
+[15:57:04] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Added class thaumcraft.common.tiles.TileAlchemyFurnaceAdvancedNozzle with capacity 0 to extraction whitelist.
+[15:57:04] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Added class thaumicenergistics.tileentities.TileEssentiaVibrationChamber with capacity 64 to injection whitelist.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Adding class thaumcraft.common.items.ItemEssence[0] to item whitelist.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Adding class thaumcraft.common.items.ItemEssence[1] to item whitelist.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Adding class thaumcraft.common.blocks.ItemJarFilled[0] to item whitelist.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Adding class thaumcraft.common.blocks.ItemJarFilled[3] to item whitelist.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Adding class thaumicenergistics.items.ItemBlockEssentiaVibrationChamber[0] to item whitelist.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Starting (Essentia Gas Creation)
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect aer.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect terra.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect ignis.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect aqua.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect ordo.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect perditio.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect vacuos.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect lux.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect tempestas.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect motus.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect gelum.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect vitreus.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect victus.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect venenum.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect potentia.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect permutatio.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect metallum.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect mortuus.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect volatus.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect tenebrae.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect spiritus.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect sano.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect iter.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect alienis.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect praecantatio.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect auram.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect vitium.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect limus.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect herba.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect arbor.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect bestia.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect corpus.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect exanimis.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect cognitio.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect sensus.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect humanus.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect messis.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect perfodio.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect instrumentum.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect meto.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect telum.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect tutamen.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect fames.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect lucrum.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect fabrico.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect pannus.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect machina.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Created fluid for aspect vinculum.
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Finished (Essentia Gas Creation in 41ms)
+[15:57:05] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Starting (AE Scanables)
+[15:57:05] [Client thread/WARN] [Thaumic Energistics/thaumicenergistics]: Unable to load AE2 Grinder recipes, aspect registration will be incomplete
+[15:57:05] [Client thread/WARN] [Thaumic Energistics/thaumicenergistics]: Unable to load AE2 Inscriber recipes, aspect registration will be incomplete
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Fluix Dust' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Sky Stone Dust' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Inscriber Calculation Press' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Inscriber Engineering Press' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Inscriber Logic Press' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Printed Calculation Circuit' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Printed Engineering Circuit' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Printed Logic Circuit' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Inscriber Silicon Press' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Printed Silicon' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Inscriber Name Press' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Certus Quartz Dust' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Flour' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Gold Dust' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Iron Dust' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Fluix Dust' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Certus Quartz Dust' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Nether Quartz Dust' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Matrix Frame' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'tile.appliedenergistics2.BlockPaint.name' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Sky Stone Block Stairs' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Sky Stone Brick Stairs' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: 'Sky Stone Small Brick Stairs' was not registered for TC scanning.
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Finished (AE Scanables in 1078ms)
+[15:57:06] [Client thread/INFO] [Thaumic Energistics/thaumicenergistics]: Finished (PostInit in 1393ms)
+[15:57:06] [Client thread/TRACE] [thaumicenergistics/thaumicenergistics]: Sent event FMLPostInitializationEvent to mod thaumicenergistics
+[15:57:06] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Thaumic Energistics took 1.395s
+[15:57:06] [Client thread/TRACE] [thaumicexpansion/thaumicexpansion]: Sending event FMLPostInitializationEvent to mod thaumicexpansion
+[15:57:06] [Client thread/TRACE] [thaumicexpansion/thaumicexpansion]: Sent event FMLPostInitializationEvent to mod thaumicexpansion
+[15:57:06] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Thaumic Expansion took 0.037s
+[15:57:06] [Client thread/TRACE] [ThaumicHorizons/ThaumicHorizons]: Sending event FMLPostInitializationEvent to mod ThaumicHorizons
+[15:57:06] [Client thread/TRACE] [ThaumicHorizons/ThaumicHorizons]: Sent event FMLPostInitializationEvent to mod ThaumicHorizons
+[15:57:06] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Thaumic Horizons took 0.071s
+[15:57:06] [Client thread/TRACE] [ThaumicTinkerer/ThaumicTinkerer]: Sending event FMLPostInitializationEvent to mod ThaumicTinkerer
+[15:57:06] [Client thread/TRACE] [ThaumicTinkerer/ThaumicTinkerer]: Sent event FMLPostInitializationEvent to mod ThaumicTinkerer
+[15:57:06] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Thaumic Tinkerer took 0.314s
+[15:57:06] [Client thread/TRACE] [thecorruptedsector/thecorruptedsector]: Sending event FMLPostInitializationEvent to mod thecorruptedsector
+[15:57:06] [Client thread/INFO] [thecorruptedsector/thecorruptedsector]: Registering recipes
+[15:57:06] [Client thread/TRACE] [thecorruptedsector/thecorruptedsector]: Sent event FMLPostInitializationEvent to mod thecorruptedsector
+[15:57:06] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - The Corrupted Sector took 0.028s
+[15:57:06] [Client thread/TRACE] [ThermalDynamics/ThermalDynamics]: Sending event FMLPostInitializationEvent to mod ThermalDynamics
+[15:57:07] [Client thread/TRACE] [ThermalDynamics/ThermalDynamics]: Sent event FMLPostInitializationEvent to mod ThermalDynamics
+[15:57:07] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Thermal Dynamics took 0.914s
+[15:57:07] [Client thread/TRACE] [TiCTooltips/TiCTooltips]: Sending event FMLPostInitializationEvent to mod TiCTooltips
+[15:57:07] [Client thread/TRACE] [TiCTooltips/TiCTooltips]: Sent event FMLPostInitializationEvent to mod TiCTooltips
+[15:57:07] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - TiC Tooltips took 0.058s
+[15:57:07] [Client thread/TRACE] [TML/TML]: Sending event FMLPostInitializationEvent to mod TML
+[15:57:07] [Client thread/TRACE] [TML/TML]: Sent event FMLPostInitializationEvent to mod TML
+[15:57:07] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - TooMuchLoot took 0.001s
+[15:57:07] [Client thread/TRACE] [Translocator/Translocator]: Sending event FMLPostInitializationEvent to mod Translocator
+[15:57:07] [Client thread/TRACE] [Translocator/Translocator]: Sent event FMLPostInitializationEvent to mod Translocator
+[15:57:07] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Translocator took 0.001s
+[15:57:07] [Client thread/TRACE] [Tubestuff/Tubestuff]: Sending event FMLPostInitializationEvent to mod Tubestuff
+[15:57:07] [Client thread/TRACE] [Tubestuff/Tubestuff]: Sent event FMLPostInitializationEvent to mod Tubestuff
+[15:57:07] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Tubestuff took 0.001s
+[15:57:07] [Client thread/TRACE] [VeinMiner/VeinMiner]: Sending event FMLPostInitializationEvent to mod VeinMiner
+[15:57:07] [Client thread/TRACE] [VeinMiner/VeinMiner]: Sent event FMLPostInitializationEvent to mod VeinMiner
+[15:57:07] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Vein Miner took 0.091s
+[15:57:07] [Client thread/TRACE] [VeinMinerModSupport/VeinMinerModSupport]: Sending event FMLPostInitializationEvent to mod VeinMinerModSupport
+[15:57:07] [Client thread/TRACE] [VeinMinerModSupport/VeinMinerModSupport]: Sent event FMLPostInitializationEvent to mod VeinMinerModSupport
+[15:57:07] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Mod Support took 0.001s
+[15:57:07] [Client thread/TRACE] [WailaHarvestability/WailaHarvestability]: Sending event FMLPostInitializationEvent to mod WailaHarvestability
+[15:57:07] [Client thread/TRACE] [WailaHarvestability/WailaHarvestability]: Sent event FMLPostInitializationEvent to mod WailaHarvestability
+[15:57:07] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Waila Harvestability took 0.022s
+[15:57:07] [Client thread/TRACE] [wailaplugins/wailaplugins]: Sending event FMLPostInitializationEvent to mod wailaplugins
+[15:57:07] [Client thread/TRACE] [wailaplugins/wailaplugins]: Sent event FMLPostInitializationEvent to mod wailaplugins
+[15:57:07] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - WAILA Plugins took 0.001s
+[15:57:07] [Client thread/TRACE] [wawla/wawla]: Sending event FMLPostInitializationEvent to mod wawla
+[15:57:07] [Client thread/TRACE] [wawla/wawla]: Sent event FMLPostInitializationEvent to mod wawla
+[15:57:07] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - What Are We Looking At took 0.001s
+[15:57:07] [Client thread/TRACE] [YAFM/YAFM]: Sending event FMLPostInitializationEvent to mod YAFM
+[15:57:07] [Client thread/INFO] [airbreather.mods.yafm.MCAAddons/YAFM]: MCA not detected.  Skipping adding MCA chores to cook YAFM food items
+[15:57:07] [Client thread/TRACE] [YAFM/YAFM]: Sent event FMLPostInitializationEvent to mod YAFM
+[15:57:07] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Yet Another Food Mod took 0.004s
+[15:57:07] [Client thread/TRACE] [aobd/aobd]: Sending event FMLPostInitializationEvent to mod aobd
+[15:57:07] [Client thread/TRACE] [aobd/aobd]: Sent event FMLPostInitializationEvent to mod aobd
+[15:57:07] [Client thread/DEBUG] [FML/]: Bar Step: PostInitialization - Another One Bites The Dust took 0.006s
+[15:57:07] [Client thread/DEBUG] [FML/]: Bar Finished: PostInitialization took 56.116s
+[15:57:07] [Client thread/ERROR] [FML/]: Fatal errors were detected during the transition from POSTINITIALIZATION to AVAILABLE. Loading cannot continue
+[15:57:07] [Client thread/ERROR] [FML/]: 
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJ	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJ	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1558-1.7.10.jar) 
+	UCHIJ	Forge{10.13.4.1558} [Minecraft Forge] (forge-1.7.10-10.13.4.1558-1.7.10.jar) 
+	UCHIJ	appliedenergistics2-core{rv2-stable-10} [AppliedEnergistics2 Core] (minecraft.jar) 
+	UCHIJ	Aroma1997Core{1.0.2.16} [Aroma1997Core] (Aroma1997Core-1.7.10-1.0.2.16.jar) 
+	UCHIJ	CodeChickenCore{1.0.7.47} [CodeChicken Core] (minecraft.jar) 
+	UCHIJ	FR-CORE{1.0.3} [Floatable Rails] (minecraft.jar) 
+	UCHIJ	NotEnoughItems{1.0.5.118} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.118-universal.jar) 
+	UCHIJ	ThaumicTinkerer-preloader{0.1} [Thaumic Tinkerer Core] (minecraft.jar) 
+	UCHIJ	OpenModsCore{0.8} [OpenModsCore] (minecraft.jar) 
+	UCHIJ	<CoFH ASM>{000} [CoFH ASM] (minecraft.jar) 
+	UCHIJ	Trapcraft{v2.2.1a} [Trapcraft] ([1.7.10] Trapcraft - v2.3.0a.zip) 
+	UCHIJ	bspkrsCore{6.16} [bspkrsCore] ([1.7.10]bspkrsCore-universal-6.16.jar) 
+	UCHIJ	FloatingRuins{1.7.10.r02} [FloatingRuins] ([1.7.10]FloatingRuins-universal-1.7.10.r02.jar) 
+	UCHIJ	DC1{3.4.2.19} [KingCore] ([1.7.2+] KingCore v3.4.2.19.jar) 
+	UCHIJ	Glow{1.1.0.3} [Glow] ([1.7.10M] Glow v1.1.0.3.jar) 
+	UCHIJ	CoFHCore{1.7.10R3.0.3} [CoFH Core] (CoFHCore-[1.7.10]3.0.3-303.jar) 
+	UCHIJ	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.10.jar) 
+	UCHIJ	ThermalFoundation{1.7.10R1.2.0} [Thermal Foundation] (ThermalFoundation-[1.7.10]1.2.0-102.jar) 
+	UCHIJ	BuildCraft|Core{7.1.14} [BuildCraft] (buildcraft-7.1.14.jar) 
+	UCHIJ	ExtraUtilities{1.2.11} [Extra Utilities] (extrautilities-1.2.11.jar) 
+	UCHIJ	Mantle{1.7.10-0.3.2.jenkins191} [Mantle] (Mantle-1.7.10-0.3.2b.jar) 
+	UCHIJ	MineFactoryReloaded{1.7.10R2.8.0} [MineFactory Reloaded] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	ThermalExpansion{1.7.10R4.0.3B1} [Thermal Expansion] (ThermalExpansion-[1.7.10]4.0.3B1-218.jar) 
+	UCHIJ	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UCHIJ	TConstruct{1.7.10-1.8.8.build988} [Tinkers' Construct] (TConstruct-1.7.10-1.8.8.jar) 
+	UCHIJ	GreenThumb{1.0.0.1} [Green Thumb] ([1.7.10M] GreenThumb v1.0.0.1.jar) 
+	UCHIJ	ToolHeads{1.2.0.4} [ToolHeads] ([1.7.10M] ToolHeads v1.2.0.4.jar) 
+	UCHIJ	EB{2.1.2.6} [Ender Book] ([1.7.2] EnderBook v2.1.2.6.jar) 
+	UCHIJ	Boost{1.1.1.3} [Boost] ([1.7.2M] Boost v1.1.1.3.jar) 
+	UCHIJ	Crusher{1.0.2.3} [Crusher] ([1.7.2M] Crusher v1.0.2.3.jar) 
+	UCHIJ	IC2{2.2.809-experimental} [IndustrialCraft 2] (industrialcraft-2-2.2.809-experimental.jar) 
+	UCHIJ	ImmibisCore{59.1.2} [Immibis Core] (immibis-core-59.1.2.jar) 
+	UCHIJ	AdvancedMachines{59.0.2} [Advanced Machines] (advanced-machines-59.0.2.jar) 
+	UCHIJ	AdvancedSolarPanel{1.7.10-3.5.1} [Advanced Solar Panels] (AdvancedSolarPanel-1.7.10-3.5.1.jar) 
+	UCHIJ	appliedenergistics2{rv2-stable-10} [Applied Energistics 2] (appliedenergistics2-rv2-stable-10.jar) 
+	UCHIJ	bdlib{1.9.3.107} [BD Lib] (bdlib-1.9.3.107-mc1.7.10.jar) 
+	UCHIJ	ae2stuff{0.5.0.56} [AE2 Stuff] (ae2stuff-0.5.0.56-mc1.7.10.jar) 
+	UCHIJ	AFSU{1.2.2a-Mustaa} [AFSU Mod] (AFSU-1.2.2a-Mustaa.jar) 
+	UCHIJ	Aroma1997CoreHelper{1.0.2.16} [Aroma1997Core|Helper] (Aroma1997Core-1.7.10-1.0.2.16.jar) 
+	UCHIJ	Aroma1997sDimension{1.0} [Aroma1997's Dimensional World] (Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar) 
+	UCHIJ	AutoSapling{1.0} [AutoSapling] (AutoSapling-1.1.jar) 
+	UCHIJ	Backpack{2.0.1} [Backpack] (backpack-2.0.1-1.7.x.jar) 
+	UCHIJ	BetterChests{1.1.1.9} [BetterChests] (BetterChests-1.7.10-1.1.1.9.jar) 
+	UCHIJ	bettersugarcane{2.0a} [Better Sugar Cane] (bettersugarcane--1.7.10-2.0a.jar) 
+	UCHIJ	AWWayofTime{v1.3.3} [Blood Magic: Alchemical Wizardry] (BloodMagic-1.7.10-1.3.3-17.jar) 
+	UCHIJ	bookshelf{1.2.0} [Bookshelf] (Bookshelf-1.7.10-1.2.0.jar) 
+	UCHIJ	BuildCraft|Builders{7.1.14} [BC Builders] (buildcraft-7.1.14.jar) 
+	UCHIJ	BuildCraft|Transport{7.1.14} [BC Transport] (buildcraft-7.1.14.jar) 
+	UCHIJ	BuildCraft|Energy{7.1.14} [BC Energy] (buildcraft-7.1.14.jar) 
+	UCHIJ	BuildCraft|Silicon{7.1.14} [BC Silicon] (buildcraft-7.1.14.jar) 
+	UCHIJ	BuildCraft|Robotics{7.1.14} [BC Robotics] (buildcraft-7.1.14.jar) 
+	UCHIJ	BuildCraft|Factory{7.1.14} [BC Factory] (buildcraft-7.1.14.jar) 
+	UCHIJ	Forestry{4.2.2.860-unstable} [Forestry for Minecraft] (forestry_1.7.10-4.2.2.860-unstable.jar) 
+	UCHIJ	BuildCraft|Compat{7.1.1} [BuildCraft Compat] (buildcraft-compat-7.1.1.jar) 
+	UCHIJ	cmdTempInit{1.0} [CommandTemperature] (commandTempareture[1.7.x].jar) 
+	UCHIJ	CompactMachines{1.7.10-1.20} [Compact Machines] (compactmachines-1.7.10-1.20.jar) 
+	UCHIJ	craftguide{1.6.8.2} [CraftGuide] (CraftGuide-1.6.8.2-forge.jar) 
+	UCHIJ	DimensionalAnchors{59.0.3} [Dimensional Anchors] (dimensional-anchor-59.0.3.jar) 
+	UCHIJ	eplus{3.0.2-d} [Enchanting Plus] (EnchantingPlus-1.7.10-3.0.2-d.jar) 
+	UCHIJ	Enchiridion{1.3} [Enchiridion] (Enchiridion 2-1.7.10-2.0.2a.jar) 
+	UCHIJ	Enchiridion2{2.0.2a} [Enchiridion 2] (Enchiridion 2-1.7.10-2.0.2a.jar) 
+	UCHIJ	endercore{1.7.10-0.2.0.30_beta} [EnderCore] (EnderCore-1.7.10-0.2.0.30_beta.jar) 
+	UCHIJ	Thaumcraft{4.2.3.5} [Thaumcraft] (Thaumcraft-1.7.10-4.2.3.5.jar) 
+	UCHIJ	EnderIO{1.7.10-2.3.0.418_beta} [Ender IO] (EnderIO-1.7.10-2.3.0.418_beta.jar) 
+	UCHIJ	EnderTech{1.7.10-0.3.2.405} [EnderTech] (EnderTech-1.7.10-0.3.2.405.jar) 
+	UCHIJ	EnderZoo{1.7.10-1.0.15.32} [Ender Zoo] (EnderZoo-1.7.10-1.0.15.32.jar) 
+	UCHIJ	enhancedportals{3.0.12} [EnhancedPortals] (EnhancedPortals_1.7.10-universal-3.0.12.jar) 
+	UCHIJ	evilcraft{0.9.2} [EvilCraft] (EvilCraft-1.7.10-0.9.2.jar) 
+	UCHIJ	exnihilo{1.38-49} [Ex Nihilo] (Ex-Nihilo-1.38-49.jar) 
+	UCHIJ	exastris{MC1.7.10-1.16-36} [Ex Astris] (Ex-Astris-MC1.7.10-1.16-36.jar) 
+	UCHIJ	extracells{2.2.73} [Extra Cells 2] (ExtraCells-1.7.10-2.2.73b129.jar) 
+	UCHIJ	FastCraft{1.21} [FastCraft] (fastcraft-1.21.jar) 
+	UCHIJ	FlatBedrockx{1.0.2} [FlatBedrock Xplosion's Edition] (FlatBedrock-1.0.2.jar) 
+	UCHIJ	ganysend{1.11.1} [Gany's End] (Ganys End-1.11.1.jar) 
+	UCHIJ	ganysnether{1.8.1} [Gany's Nether] (Ganys Nether-1.8.1.jar) 
+	UCHIJ	ganyssurface{1.12.6} [Gany's Surface] (Ganys Surface-1.12.6.jar) 
+	UCHIJ	guideapi{1.7.10-1.0.1-23} [Guide-API] (Guide-API-1.7.10-1.0.1-23.jar) 
+	UCHIJ	IGWMod{1.1.11-32} [In-Game wiki Mod] (IGW-Mod-1.7.10-1.1.11-32-universal.jar) 
+	UCHIJ	intellie{2.1.4.554} [IntelliE] (IntelligentEnergistics-1.7.10-2.1.4.554-universal.jar) 
+	UCHIJ	appaero{2.1.4.554} [AppliedAerodynamics] (IntelligentEnergistics-1.7.10-2.1.4.554-universal.jar) 
+	UCHIJ	appaeronei{2.1.4.554} [AppliedAerodynamicsNEI] (IntelligentEnergistics-1.7.10-2.1.4.554-universal.jar) 
+	UCHIJ	inventorytweaks{1.59-dev-152-cf6e263} [Inventory Tweaks] (InventoryTweaks-1.59-dev-152.jar) 
+	UCHIJ	ironbackpacks{0.5.0} [Iron Backpacks] (Iron Backpacks-1.7.10-1.0.4-universal.jar) 
+	UCHIJ	IronChest{6.0.62.742} [Iron Chest] (ironchest-1.7.10-6.0.62.742-universal.jar) 
+	UCHIJ	journeymap{@JMVERSION@} [JourneyMap] (journeymap-1.7.10-5.1.0-unlimited.jar) 
+	UCHIJ	LiquidXP{59.0.1} [Liquid XP] (liquid-xp-59.0.1.jar) 
+	UCHIJ	LunatriusCore{1.1.2.21} [LunatriusCore] (LunatriusCore-1.7.10-1.1.2.21-universal.jar) 
+	UCHIJ	more{6.0} [M-Ore mod] (M-Ore 6.1.jar) 
+	UCHIJ	magicalcrops{1.7.2 - 0.1 ALPHA} [Magical Crops] (magicalcrops-1.7.10_0.1.jar) 
+	UCHIE	magicclover{1.7-0.6.2} [Magic Clover] (magicclover-1.7-0.6.2.jar) 
+	UCHIJ	MineFactoryReloaded|CompatAppliedEnergistics{1.7.10R2.8.0} [MFR Compat: Applied Energistics] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatAtum{1.7.10R2.8.0} [MFR Compat: Atum] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatBackTools{1.7.10R2.8.0} [MFR Compat: BackTools] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatBuildCraft{1.7.10R2.8.0} [MFR Compat: BuildCraft] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatChococraft{1.7.10R2.8.0} [MFR Compat: Chococraft] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatExtraBiomes{1.7.10R2.8.0} [MFR Compat: ExtraBiomes] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatForestry{1.7.10R2.8.0} [MFR Compat: Forestry] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatForgeMicroblock{1.7.10R2.8.0} [MFR Compat: ForgeMicroblock] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatIC2{1.7.10R2.8.0} [MFR Compat: IC2] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatMystcraft{1.7.10R2.8.0} [MFR Compat: Mystcraft] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatProjRed{1.7.10R2.8.0} [MFR Compat ProjectRed] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatRailcraft{1.7.10R2.8.0} [MFR Compat: Railcraft] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatSufficientBiomes{1.7.10R2.8.0} [MFR Compat: Sufficient Biomes] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatThaumcraft{1.7.10R2.8.0} [MFR Compat: Thaumcraft] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatThermalExpansion{1.7.10R2.8.0} [MFR Compat: Thermal Expansion] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatTConstruct{1.7.10R2.8.0} [MFR Compat: Tinkers' Construct] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatTwilightForest{1.7.10R2.8.0} [MFR Compat: TwilightForest] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatVanilla{1.7.10R2.8.0} [MFR Compat: Vanilla] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineTweaker3{3.0.10} [MineTweaker 3] (MineTweaker3-1.7.10-3.0.10.jar) 
+	UCHIJ	modtweaker2{0.9.5} [Mod Tweaker 2] (ModTweaker2-0.9.5.jar) 
+	UCHIJ	MoreFurnaces{1.3.9} [More Furnaces] (MoreFurnaces-1.3.9-MC1.7.10.jar) 
+	UCHIJ	movillages{1.2.1} [Mo' Villages] (MoVillages-1.3.1.jar) 
+	UCHIJ	NEIAddons{1.12.14.40} [NEI Addons] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	NEIAddons|Developer{1.12.14.40} [NEI Addons: Developer Tools] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	NEIAddons|AppEng{1.12.14.40} [NEI Addons: Applied Energistics 2] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	NEIAddons|Botany{1.12.14.40} [NEI Addons: Botany] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	NEIAddons|Forestry{1.12.14.40} [NEI Addons: Forestry] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	NEIAddons|CraftingTables{1.12.14.40} [NEI Addons: Crafting Tables] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	NEIAddons|ExNihilo{1.12.14.40} [NEI Addons: Ex Nihilo] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	neiintegration{1.0.13} [NEI Integration] (NEIIntegration-MC1.7.10-1.0.13.jar) 
+	UCHIJ	ObsidianBoat{v1.3.2} [Obsidian Boat] (ObsidianBoat-1.7.10-1.3.2.jar) 
+	UCHIJ	OpenMods{0.8} [OpenMods] (OpenModsLib-1.7.10-0.8.jar) 
+	UCHIJ	OpenBlocks{1.4.4} [OpenBlocks] (OpenBlocks-1.7.10-1.4.4.jar) 
+	UCHIJ	oredowsing{0.7} [Ore Dowsing] (OreDowsing-1.7.10-0.7.jar) 
+	UCHIJ	origin{7.0.0b1} [Origin] (Origin-1.7.10-7.0.0b1.310.jar) 
+	UCHIJ	PneumaticCraft{1.11.16-138} [PneumaticCraft] (PneumaticCraft-1.7.10-1.11.16-138-universal.jar) 
+	UCHIJ	Aroma1997sPortableRecharger{1.0.0.6} [Aroma1997s Portable Recharger] (Portable-Recharger-1.7.2-1.0.0.6.jar) 
+	UCHIJ	JotatosPracticalities{0.6.2} [Practicalities] (practicalities-1.7.10-0.6.2.jar) 
+	UCHIJ	pressure{1.2.4.124} [Pressure Pipes] (pressure-1.2.4.124-mc1.7.10.jar) 
+	UCHIJ	quiverchevsky{b101b} [QuiverBow] (QuiverBow_1.7.10_b101b.zip) 
+	UCHIJ	RandomThings{2.2.4} [Random Things] (RandomThings-2.2.4.jar) 
+	UCHIJ	RedstonePasteMod{1.6.2} [Redstone Paste] (RedstonePasteMod-1.7.10-1.6.2.jar) 
+	UCHIJ	RefinedRelocation{1.1.13} [Refined Relocation] (RefinedRelocation-mc1.7.10-1.1.13.jar) 
+	UCHIJ	SolarFlux{1.7.10-0.8b} [Solar Flux] (SolarFlux-1.7.10-0.8b.jar) 
+	UCHIJ	Stackie{1.6.0.36} [Stackie] (Stackie-1.7.10-1.6.0.36-universal.jar) 
+	UCHIJ	StevesCarts{2.0.0.b18} [Steve's Carts 2] (StevesCarts2.0.0.b18.jar) 
+	UCHIJ	StevesFactoryManager{A93} [Steve's Factory Manager] (StevesFactoryManagerA93.jar) 
+	UCHIJ	StevesWorkshop{0.5.1} [Steve's Workshop] (StevesWorkshop-0.5.1.jar) 
+	UCHIJ	StorageDrawers{1.7.10-1.6.2} [Storage Drawers] (StorageDrawers-1.7.10-1.6.2.jar) 
+	UCHIJ	thaumcraftneiplugin{@VERSION@} [Thaumcraft NEI Plugin] (thaumcraftneiplugin-1.7.10-1.7a.jar) 
+	UCHIJ	thaumicenergistics{0.8.10.10} [Thaumic Energistics] (thaumicenergistics-0.8.10.10.jar) 
+	UCHIJ	thaumicexpansion{3.0.0} [Thaumic Expansion] (ThaumicExpansion-1.7.10-4.0.1.jar) 
+	UCHIJ	ThaumicHorizons{1.1.9} [Thaumic Horizons] (thaumichorizons-1.7.10-1.1.9.jar) 
+	UCHIJ	ThaumicTinkerer{unspecified} [Thaumic Tinkerer] (ThaumicTinkerer-2.5-1.7.10-164.jar) 
+	UCHIJ	thecorruptedsector{1.0.1} [The Corrupted Sector] (TheCorruptedSector-MC1.7.10-1.0.1.jar) 
+	UCHIJ	ThermalDynamics{1.7.10R1.1.0} [Thermal Dynamics] (ThermalDynamics-[1.7.10]1.1.0-161.jar) 
+	UCHIJ	TiCTooltips{1.2.5} [TiC Tooltips] (TiCTooltips-mc1.7.10-1.2.5.jar) 
+	UCHIJ	TML{4.0.0} [TooMuchLoot] (TooMuchLoot-1.7.10-4.0.0.B25.jar) 
+	UCHIJ	Translocator{1.1.2.15} [Translocator] (Translocator-1.7.10-1.1.2.15-universal.jar) 
+	UCHIJ	Tubestuff{59.0.4} [Tubestuff] (tubestuff-59.0.4.jar) 
+	UCHIJ	VeinMiner{0.28.0_build.unknown} [Vein Miner] (VeinMiner-1.7.10_0.28.3.unknown.jar) 
+	UCHIJ	VeinMinerModSupport{0.28.0_build.unknown} [Mod Support] (VeinMiner-1.7.10_0.28.3.unknown.jar) 
+	UCHIJ	WailaHarvestability{1.1.5} [Waila Harvestability] (WailaHarvestability-mc1.7.10-1.1.5.jar) 
+	UCHIJ	wailaplugins{MC1.7.10-0.2.0-23} [WAILA Plugins] (WAILAPlugins-MC1.7.10-0.2.0-23.jar) 
+	UCHIJ	wawla{1.3.2} [What Are We Looking At] (Wawla-1.3.2-1.7.10.jar) 
+	UCHIJ	YAFM{1.0.3} [Yet Another Food Mod] (yafm-1.0.3.jar) 
+	UCHIJ	aobd{2.8.4} [Another One Bites The Dust] (AOBD-2.8.4.jar) 
+[15:57:07] [Client thread/ERROR] [FML/]: The following problems were captured during this phase
+[15:57:07] [Client thread/ERROR] [FML/]: Caught exception from magicclover
+java.lang.NullPointerException
+	at clover.common.util.Registry.load(Registry.java:66) ~[Registry.class:?]
+	at clover.common.MagicClover.postInit(MagicClover.java:57) ~[MagicClover.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_60]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) ~[forge-1.7.10-10.13.4.1558-1.7.10.jar:?]
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_60]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) ~[forge-1.7.10-10.13.4.1558-1.7.10.jar:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) ~[forge-1.7.10-10.13.4.1558-1.7.10.jar:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_60]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) ~[guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) ~[guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:?]
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_60]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[15:57:08] [Client thread/INFO] [STDOUT/]: [net.minecraft.client.Minecraft:func_71377_b:349]: ---- Minecraft Crash Report ----
+// This doesn't make any sense!
+
+Time: 12/18/15 3:57 PM
+Description: Initializing game
+
+java.lang.NullPointerException: Initializing game
+	at clover.common.util.Registry.load(Registry.java:66)
+	at clover.common.MagicClover.postInit(MagicClover.java:57)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742)
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at clover.common.util.Registry.load(Registry.java:66)
+	at clover.common.MagicClover.postInit(MagicClover.java:57)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532)
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74)
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119)
+	at cpw.mods.fml.common.Loader.initializeMods(Loader.java:742)
+	at cpw.mods.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:311)
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:552)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.8.0_60, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 314182080 bytes (299 MB) / 785940480 bytes (749 MB) up to 1861615616 bytes (1775 MB)
+	JVM Flags: 5 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx1792M -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1558 158 mods loaded, 158 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJ	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJ	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1558-1.7.10.jar) 
+	UCHIJ	Forge{10.13.4.1558} [Minecraft Forge] (forge-1.7.10-10.13.4.1558-1.7.10.jar) 
+	UCHIJ	appliedenergistics2-core{rv2-stable-10} [AppliedEnergistics2 Core] (minecraft.jar) 
+	UCHIJ	Aroma1997Core{1.0.2.16} [Aroma1997Core] (Aroma1997Core-1.7.10-1.0.2.16.jar) 
+	UCHIJ	CodeChickenCore{1.0.7.47} [CodeChicken Core] (minecraft.jar) 
+	UCHIJ	FR-CORE{1.0.3} [Floatable Rails] (minecraft.jar) 
+	UCHIJ	NotEnoughItems{1.0.5.118} [Not Enough Items] (NotEnoughItems-1.7.10-1.0.5.118-universal.jar) 
+	UCHIJ	ThaumicTinkerer-preloader{0.1} [Thaumic Tinkerer Core] (minecraft.jar) 
+	UCHIJ	OpenModsCore{0.8} [OpenModsCore] (minecraft.jar) 
+	UCHIJ	<CoFH ASM>{000} [CoFH ASM] (minecraft.jar) 
+	UCHIJ	Trapcraft{v2.2.1a} [Trapcraft] ([1.7.10] Trapcraft - v2.3.0a.zip) 
+	UCHIJ	bspkrsCore{6.16} [bspkrsCore] ([1.7.10]bspkrsCore-universal-6.16.jar) 
+	UCHIJ	FloatingRuins{1.7.10.r02} [FloatingRuins] ([1.7.10]FloatingRuins-universal-1.7.10.r02.jar) 
+	UCHIJ	DC1{3.4.2.19} [KingCore] ([1.7.2+] KingCore v3.4.2.19.jar) 
+	UCHIJ	Glow{1.1.0.3} [Glow] ([1.7.10M] Glow v1.1.0.3.jar) 
+	UCHIJ	CoFHCore{1.7.10R3.0.3} [CoFH Core] (CoFHCore-[1.7.10]3.0.3-303.jar) 
+	UCHIJ	Baubles{1.0.1.10} [Baubles] (Baubles-1.7.10-1.0.1.10.jar) 
+	UCHIJ	ThermalFoundation{1.7.10R1.2.0} [Thermal Foundation] (ThermalFoundation-[1.7.10]1.2.0-102.jar) 
+	UCHIJ	BuildCraft|Core{7.1.14} [BuildCraft] (buildcraft-7.1.14.jar) 
+	UCHIJ	ExtraUtilities{1.2.11} [Extra Utilities] (extrautilities-1.2.11.jar) 
+	UCHIJ	Mantle{1.7.10-0.3.2.jenkins191} [Mantle] (Mantle-1.7.10-0.3.2b.jar) 
+	UCHIJ	MineFactoryReloaded{1.7.10R2.8.0} [MineFactory Reloaded] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	ThermalExpansion{1.7.10R4.0.3B1} [Thermal Expansion] (ThermalExpansion-[1.7.10]4.0.3B1-218.jar) 
+	UCHIJ	Waila{1.5.10} [Waila] (Waila-1.5.10_1.7.10.jar) 
+	UCHIJ	TConstruct{1.7.10-1.8.8.build988} [Tinkers' Construct] (TConstruct-1.7.10-1.8.8.jar) 
+	UCHIJ	GreenThumb{1.0.0.1} [Green Thumb] ([1.7.10M] GreenThumb v1.0.0.1.jar) 
+	UCHIJ	ToolHeads{1.2.0.4} [ToolHeads] ([1.7.10M] ToolHeads v1.2.0.4.jar) 
+	UCHIJ	EB{2.1.2.6} [Ender Book] ([1.7.2] EnderBook v2.1.2.6.jar) 
+	UCHIJ	Boost{1.1.1.3} [Boost] ([1.7.2M] Boost v1.1.1.3.jar) 
+	UCHIJ	Crusher{1.0.2.3} [Crusher] ([1.7.2M] Crusher v1.0.2.3.jar) 
+	UCHIJ	IC2{2.2.809-experimental} [IndustrialCraft 2] (industrialcraft-2-2.2.809-experimental.jar) 
+	UCHIJ	ImmibisCore{59.1.2} [Immibis Core] (immibis-core-59.1.2.jar) 
+	UCHIJ	AdvancedMachines{59.0.2} [Advanced Machines] (advanced-machines-59.0.2.jar) 
+	UCHIJ	AdvancedSolarPanel{1.7.10-3.5.1} [Advanced Solar Panels] (AdvancedSolarPanel-1.7.10-3.5.1.jar) 
+	UCHIJ	appliedenergistics2{rv2-stable-10} [Applied Energistics 2] (appliedenergistics2-rv2-stable-10.jar) 
+	UCHIJ	bdlib{1.9.3.107} [BD Lib] (bdlib-1.9.3.107-mc1.7.10.jar) 
+	UCHIJ	ae2stuff{0.5.0.56} [AE2 Stuff] (ae2stuff-0.5.0.56-mc1.7.10.jar) 
+	UCHIJ	AFSU{1.2.2a-Mustaa} [AFSU Mod] (AFSU-1.2.2a-Mustaa.jar) 
+	UCHIJ	Aroma1997CoreHelper{1.0.2.16} [Aroma1997Core|Helper] (Aroma1997Core-1.7.10-1.0.2.16.jar) 
+	UCHIJ	Aroma1997sDimension{1.0} [Aroma1997's Dimensional World] (Aroma1997s-Dimensional-World-1.7.10-1.1.0.1.jar) 
+	UCHIJ	AutoSapling{1.0} [AutoSapling] (AutoSapling-1.1.jar) 
+	UCHIJ	Backpack{2.0.1} [Backpack] (backpack-2.0.1-1.7.x.jar) 
+	UCHIJ	BetterChests{1.1.1.9} [BetterChests] (BetterChests-1.7.10-1.1.1.9.jar) 
+	UCHIJ	bettersugarcane{2.0a} [Better Sugar Cane] (bettersugarcane--1.7.10-2.0a.jar) 
+	UCHIJ	AWWayofTime{v1.3.3} [Blood Magic: Alchemical Wizardry] (BloodMagic-1.7.10-1.3.3-17.jar) 
+	UCHIJ	bookshelf{1.2.0} [Bookshelf] (Bookshelf-1.7.10-1.2.0.jar) 
+	UCHIJ	BuildCraft|Builders{7.1.14} [BC Builders] (buildcraft-7.1.14.jar) 
+	UCHIJ	BuildCraft|Transport{7.1.14} [BC Transport] (buildcraft-7.1.14.jar) 
+	UCHIJ	BuildCraft|Energy{7.1.14} [BC Energy] (buildcraft-7.1.14.jar) 
+	UCHIJ	BuildCraft|Silicon{7.1.14} [BC Silicon] (buildcraft-7.1.14.jar) 
+	UCHIJ	BuildCraft|Robotics{7.1.14} [BC Robotics] (buildcraft-7.1.14.jar) 
+	UCHIJ	BuildCraft|Factory{7.1.14} [BC Factory] (buildcraft-7.1.14.jar) 
+	UCHIJ	Forestry{4.2.2.860-unstable} [Forestry for Minecraft] (forestry_1.7.10-4.2.2.860-unstable.jar) 
+	UCHIJ	BuildCraft|Compat{7.1.1} [BuildCraft Compat] (buildcraft-compat-7.1.1.jar) 
+	UCHIJ	cmdTempInit{1.0} [CommandTemperature] (commandTempareture[1.7.x].jar) 
+	UCHIJ	CompactMachines{1.7.10-1.20} [Compact Machines] (compactmachines-1.7.10-1.20.jar) 
+	UCHIJ	craftguide{1.6.8.2} [CraftGuide] (CraftGuide-1.6.8.2-forge.jar) 
+	UCHIJ	DimensionalAnchors{59.0.3} [Dimensional Anchors] (dimensional-anchor-59.0.3.jar) 
+	UCHIJ	eplus{3.0.2-d} [Enchanting Plus] (EnchantingPlus-1.7.10-3.0.2-d.jar) 
+	UCHIJ	Enchiridion{1.3} [Enchiridion] (Enchiridion 2-1.7.10-2.0.2a.jar) 
+	UCHIJ	Enchiridion2{2.0.2a} [Enchiridion 2] (Enchiridion 2-1.7.10-2.0.2a.jar) 
+	UCHIJ	endercore{1.7.10-0.2.0.30_beta} [EnderCore] (EnderCore-1.7.10-0.2.0.30_beta.jar) 
+	UCHIJ	Thaumcraft{4.2.3.5} [Thaumcraft] (Thaumcraft-1.7.10-4.2.3.5.jar) 
+	UCHIJ	EnderIO{1.7.10-2.3.0.418_beta} [Ender IO] (EnderIO-1.7.10-2.3.0.418_beta.jar) 
+	UCHIJ	EnderTech{1.7.10-0.3.2.405} [EnderTech] (EnderTech-1.7.10-0.3.2.405.jar) 
+	UCHIJ	EnderZoo{1.7.10-1.0.15.32} [Ender Zoo] (EnderZoo-1.7.10-1.0.15.32.jar) 
+	UCHIJ	enhancedportals{3.0.12} [EnhancedPortals] (EnhancedPortals_1.7.10-universal-3.0.12.jar) 
+	UCHIJ	evilcraft{0.9.2} [EvilCraft] (EvilCraft-1.7.10-0.9.2.jar) 
+	UCHIJ	exnihilo{1.38-49} [Ex Nihilo] (Ex-Nihilo-1.38-49.jar) 
+	UCHIJ	exastris{MC1.7.10-1.16-36} [Ex Astris] (Ex-Astris-MC1.7.10-1.16-36.jar) 
+	UCHIJ	extracells{2.2.73} [Extra Cells 2] (ExtraCells-1.7.10-2.2.73b129.jar) 
+	UCHIJ	FastCraft{1.21} [FastCraft] (fastcraft-1.21.jar) 
+	UCHIJ	FlatBedrockx{1.0.2} [FlatBedrock Xplosion's Edition] (FlatBedrock-1.0.2.jar) 
+	UCHIJ	ganysend{1.11.1} [Gany's End] (Ganys End-1.11.1.jar) 
+	UCHIJ	ganysnether{1.8.1} [Gany's Nether] (Ganys Nether-1.8.1.jar) 
+	UCHIJ	ganyssurface{1.12.6} [Gany's Surface] (Ganys Surface-1.12.6.jar) 
+	UCHIJ	guideapi{1.7.10-1.0.1-23} [Guide-API] (Guide-API-1.7.10-1.0.1-23.jar) 
+	UCHIJ	IGWMod{1.1.11-32} [In-Game wiki Mod] (IGW-Mod-1.7.10-1.1.11-32-universal.jar) 
+	UCHIJ	intellie{2.1.4.554} [IntelliE] (IntelligentEnergistics-1.7.10-2.1.4.554-universal.jar) 
+	UCHIJ	appaero{2.1.4.554} [AppliedAerodynamics] (IntelligentEnergistics-1.7.10-2.1.4.554-universal.jar) 
+	UCHIJ	appaeronei{2.1.4.554} [AppliedAerodynamicsNEI] (IntelligentEnergistics-1.7.10-2.1.4.554-universal.jar) 
+	UCHIJ	inventorytweaks{1.59-dev-152-cf6e263} [Inventory Tweaks] (InventoryTweaks-1.59-dev-152.jar) 
+	UCHIJ	ironbackpacks{0.5.0} [Iron Backpacks] (Iron Backpacks-1.7.10-1.0.4-universal.jar) 
+	UCHIJ	IronChest{6.0.62.742} [Iron Chest] (ironchest-1.7.10-6.0.62.742-universal.jar) 
+	UCHIJ	journeymap{@JMVERSION@} [JourneyMap] (journeymap-1.7.10-5.1.0-unlimited.jar) 
+	UCHIJ	LiquidXP{59.0.1} [Liquid XP] (liquid-xp-59.0.1.jar) 
+	UCHIJ	LunatriusCore{1.1.2.21} [LunatriusCore] (LunatriusCore-1.7.10-1.1.2.21-universal.jar) 
+	UCHIJ	more{6.0} [M-Ore mod] (M-Ore 6.1.jar) 
+	UCHIJ	magicalcrops{1.7.2 - 0.1 ALPHA} [Magical Crops] (magicalcrops-1.7.10_0.1.jar) 
+	UCHIE	magicclover{1.7-0.6.2} [Magic Clover] (magicclover-1.7-0.6.2.jar) 
+	UCHIJ	MineFactoryReloaded|CompatAppliedEnergistics{1.7.10R2.8.0} [MFR Compat: Applied Energistics] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatAtum{1.7.10R2.8.0} [MFR Compat: Atum] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatBackTools{1.7.10R2.8.0} [MFR Compat: BackTools] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatBuildCraft{1.7.10R2.8.0} [MFR Compat: BuildCraft] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatChococraft{1.7.10R2.8.0} [MFR Compat: Chococraft] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatExtraBiomes{1.7.10R2.8.0} [MFR Compat: ExtraBiomes] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatForestry{1.7.10R2.8.0} [MFR Compat: Forestry] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatForgeMicroblock{1.7.10R2.8.0} [MFR Compat: ForgeMicroblock] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatIC2{1.7.10R2.8.0} [MFR Compat: IC2] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatMystcraft{1.7.10R2.8.0} [MFR Compat: Mystcraft] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatProjRed{1.7.10R2.8.0} [MFR Compat ProjectRed] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatRailcraft{1.7.10R2.8.0} [MFR Compat: Railcraft] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatSufficientBiomes{1.7.10R2.8.0} [MFR Compat: Sufficient Biomes] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatThaumcraft{1.7.10R2.8.0} [MFR Compat: Thaumcraft] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatThermalExpansion{1.7.10R2.8.0} [MFR Compat: Thermal Expansion] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatTConstruct{1.7.10R2.8.0} [MFR Compat: Tinkers' Construct] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatTwilightForest{1.7.10R2.8.0} [MFR Compat: TwilightForest] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineFactoryReloaded|CompatVanilla{1.7.10R2.8.0} [MFR Compat: Vanilla] (MineFactoryReloaded-[1.7.10]2.8.0-104.jar) 
+	UCHIJ	MineTweaker3{3.0.10} [MineTweaker 3] (MineTweaker3-1.7.10-3.0.10.jar) 
+	UCHIJ	modtweaker2{0.9.5} [Mod Tweaker 2] (ModTweaker2-0.9.5.jar) 
+	UCHIJ	MoreFurnaces{1.3.9} [More Furnaces] (MoreFurnaces-1.3.9-MC1.7.10.jar) 
+	UCHIJ	movillages{1.2.1} [Mo' Villages] (MoVillages-1.3.1.jar) 
+	UCHIJ	NEIAddons{1.12.14.40} [NEI Addons] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	NEIAddons|Developer{1.12.14.40} [NEI Addons: Developer Tools] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	NEIAddons|AppEng{1.12.14.40} [NEI Addons: Applied Energistics 2] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	NEIAddons|Botany{1.12.14.40} [NEI Addons: Botany] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	NEIAddons|Forestry{1.12.14.40} [NEI Addons: Forestry] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	NEIAddons|CraftingTables{1.12.14.40} [NEI Addons: Crafting Tables] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	NEIAddons|ExNihilo{1.12.14.40} [NEI Addons: Ex Nihilo] (neiaddons-1.12.14.40-mc1.7.10.jar) 
+	UCHIJ	neiintegration{1.0.13} [NEI Integration] (NEIIntegration-MC1.7.10-1.0.13.jar) 
+	UCHIJ	ObsidianBoat{v1.3.2} [Obsidian Boat] (ObsidianBoat-1.7.10-1.3.2.jar) 
+	UCHIJ	OpenMods{0.8} [OpenMods] (OpenModsLib-1.7.10-0.8.jar) 
+	UCHIJ	OpenBlocks{1.4.4} [OpenBlocks] (OpenBlocks-1.7.10-1.4.4.jar) 
+	UCHIJ	oredowsing{0.7} [Ore Dowsing] (OreDowsing-1.7.10-0.7.jar) 
+	UCHIJ	origin{7.0.0b1} [Origin] (Origin-1.7.10-7.0.0b1.310.jar) 
+	UCHIJ	PneumaticCraft{1.11.16-138} [PneumaticCraft] (PneumaticCraft-1.7.10-1.11.16-138-universal.jar) 
+	UCHIJ	Aroma1997sPortableRecharger{1.0.0.6} [Aroma1997s Portable Recharger] (Portable-Recharger-1.7.2-1.0.0.6.jar) 
+	UCHIJ	JotatosPracticalities{0.6.2} [Practicalities] (practicalities-1.7.10-0.6.2.jar) 
+	UCHIJ	pressure{1.2.4.124} [Pressure Pipes] (pressure-1.2.4.124-mc1.7.10.jar) 
+	UCHIJ	quiverchevsky{b101b} [QuiverBow] (QuiverBow_1.7.10_b101b.zip) 
+	UCHIJ	RandomThings{2.2.4} [Random Things] (RandomThings-2.2.4.jar) 
+	UCHIJ	RedstonePasteMod{1.6.2} [Redstone Paste] (RedstonePasteMod-1.7.10-1.6.2.jar) 
+	UCHIJ	RefinedRelocation{1.1.13} [Refined Relocation] (RefinedRelocation-mc1.7.10-1.1.13.jar) 
+	UCHIJ	SolarFlux{1.7.10-0.8b} [Solar Flux] (SolarFlux-1.7.10-0.8b.jar) 
+	UCHIJ	Stackie{1.6.0.36} [Stackie] (Stackie-1.7.10-1.6.0.36-universal.jar) 
+	UCHIJ	StevesCarts{2.0.0.b18} [Steve's Carts 2] (StevesCarts2.0.0.b18.jar) 
+	UCHIJ	StevesFactoryManager{A93} [Steve's Factory Manager] (StevesFactoryManagerA93.jar) 
+	UCHIJ	StevesWorkshop{0.5.1} [Steve's Workshop] (StevesWorkshop-0.5.1.jar) 
+	UCHIJ	StorageDrawers{1.7.10-1.6.2} [Storage Drawers] (StorageDrawers-1.7.10-1.6.2.jar) 
+	UCHIJ	thaumcraftneiplugin{@VERSION@} [Thaumcraft NEI Plugin] (thaumcraftneiplugin-1.7.10-1.7a.jar) 
+	UCHIJ	thaumicenergistics{0.8.10.10} [Thaumic Energistics] (thaumicenergistics-0.8.10.10.jar) 
+	UCHIJ	thaumicexpansion{3.0.0} [Thaumic Expansion] (ThaumicExpansion-1.7.10-4.0.1.jar) 
+	UCHIJ	ThaumicHorizons{1.1.9} [Thaumic Horizons] (thaumichorizons-1.7.10-1.1.9.jar) 
+	UCHIJ	ThaumicTinkerer{unspecified} [Thaumic Tinkerer] (ThaumicTinkerer-2.5-1.7.10-164.jar) 
+	UCHIJ	thecorruptedsector{1.0.1} [The Corrupted Sector] (TheCorruptedSector-MC1.7.10-1.0.1.jar) 
+	UCHIJ	ThermalDynamics{1.7.10R1.1.0} [Thermal Dynamics] (ThermalDynamics-[1.7.10]1.1.0-161.jar) 
+	UCHIJ	TiCTooltips{1.2.5} [TiC Tooltips] (TiCTooltips-mc1.7.10-1.2.5.jar) 
+	UCHIJ	TML{4.0.0} [TooMuchLoot] (TooMuchLoot-1.7.10-4.0.0.B25.jar) 
+	UCHIJ	Translocator{1.1.2.15} [Translocator] (Translocator-1.7.10-1.1.2.15-universal.jar) 
+	UCHIJ	Tubestuff{59.0.4} [Tubestuff] (tubestuff-59.0.4.jar) 
+	UCHIJ	VeinMiner{0.28.0_build.unknown} [Vein Miner] (VeinMiner-1.7.10_0.28.3.unknown.jar) 
+	UCHIJ	VeinMinerModSupport{0.28.0_build.unknown} [Mod Support] (VeinMiner-1.7.10_0.28.3.unknown.jar) 
+	UCHIJ	WailaHarvestability{1.1.5} [Waila Harvestability] (WailaHarvestability-mc1.7.10-1.1.5.jar) 
+	UCHIJ	wailaplugins{MC1.7.10-0.2.0-23} [WAILA Plugins] (WAILAPlugins-MC1.7.10-0.2.0-23.jar) 
+	UCHIJ	wawla{1.3.2} [What Are We Looking At] (Wawla-1.3.2-1.7.10.jar) 
+	UCHIJ	YAFM{1.0.3} [Yet Another Food Mod] (yafm-1.0.3.jar) 
+	UCHIJ	aobd{2.8.4} [Another One Bites The Dust] (AOBD-2.8.4.jar) 
+	GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.4.12874 Compatibility Profile Context 14.100.0.0' Renderer: 'AMD Radeon HD 6310 Graphics'
+	OpenModsLib class transformers: [stencil_patches:FINISHED],[movement_callback:FINISHED],[map_gen_fix:FINISHED],[gl_capabilities_hook:FINISHED],[player_render_hook:FINISHED]
+	Class transformer null safety: all safe
+	CoFHCore: -[1.7.10]3.0.3-303
+	ThermalFoundation: -[1.7.10]1.2.0-102
+	Mantle Environment: Environment healthy.
+	MineFactoryReloaded: -[1.7.10]2.8.0-104
+	ThermalExpansion: -[1.7.10]4.0.3B1-218
+	TConstruct Environment: Environment healthy.
+	AE2 Version: stable rv2-stable-10 for Forge 10.13.2.1291
+	ThermalDynamics: -[1.7.10]1.1.0-161
+	List of loaded APIs: 
+		* API_NEK (1.1.0) from Origin-1.7.10-7.0.0b1.310.jar
+		* appliedenergistics2|API (rv2) from ThaumicTinkerer-2.5-1.7.10-164.jar
+		* Baubles|API (1.0.1.10) from Baubles-1.7.10-1.0.1.10.jar
+		* BloodMagicAPI (1.3.3-13) from BloodMagic-1.7.10-1.3.3-17.jar
+		* BuildCraftAPI|blocks (1.0) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|blueprints (1.5) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|boards (2.0) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|core (1.0) from extrautilities-1.2.11.jar
+		* BuildCraftAPI|crops (1.1) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|events (2.0) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|facades (1.1) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|filler (4.0) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|fuels (2.0) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|gates (4.1) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|items (1.1) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|library (2.0) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|lists (1.0) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|power (1.3) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|recipes (3.0) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|robotics (3.0) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|statements (1.1) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|tablet (1.0) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|tiles (1.2) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|tools (1.0) from buildcraft-7.1.14.jar
+		* BuildCraftAPI|transport (4.1) from buildcraft-7.1.14.jar
+		* CoFHAPI (1.7.10R1.0.2) from EnhancedPortals_1.7.10-universal-3.0.12.jar
+		* CoFHAPI|block (1.7.10R1.0.13) from EnderIO-1.7.10-2.3.0.418_beta.jar
+		* CoFHAPI|core (1.7.10R1.1.0) from EnderTech-1.7.10-0.3.2.405.jar
+		* CoFHAPI|energy (1.7.10R1.1.0) from EnderTech-1.7.10-0.3.2.405.jar
+		* CoFHAPI|fluid (1.7.10R1.0.13B2) from CoFHLib-[1.7.10]1.0.3-175.jar
+		* CoFHAPI|inventory (1.7.10R1.0.13) from EnderIO-1.7.10-2.3.0.418_beta.jar
+		* CoFHAPI|item (1.7.10R1.0.13B1) from extrautilities-1.2.11.jar
+		* CoFHAPI|modhelpers (1.7.10R1.0.13B2) from CoFHLib-[1.7.10]1.0.3-175.jar
+		* CoFHAPI|tileentity (1.7.10R1.1.0) from EnderTech-1.7.10-0.3.2.405.jar
+		* CoFHAPI|transport (1.7.10R1.0.13B2) from CoFHLib-[1.7.10]1.0.3-175.jar
+		* CoFHAPI|world (1.7.10R1.0.13B2) from CoFHLib-[1.7.10]1.0.3-175.jar
+		* CoFHLib (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.0.3-175.jar
+		* CoFHLib|audio (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.0.3-175.jar
+		* CoFHLib|gui (1.7.10R1.0.4B1) from EnderTech-1.7.10-0.3.2.405.jar
+		* CoFHLib|gui|container (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.0.3-175.jar
+		* CoFHLib|gui|element (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.0.3-175.jar
+		* CoFHLib|gui|element|listbox (1.7.10R1.0.3B3) from CoFHLib-[1.7.10]1.0.3-175.jar
+		* CoFHLib|gui|slot (1.7.10R1.0.4B1) from EnderTech-1.7.10-0.3.2.405.jar
+		* CoFHLib|inventory (1.7.10R1.0.3) from CoFHCore-[1.7.10]3.0.3-303.jar
+		* CoFHLib|render (1.7.10R1.0.4B1) from EnderTech-1.7.10-0.3.2.405.jar
+		* CoFHLib|render|particle (1.7.10R1.0.3) from CoFHCore-[1.7.10]3.0.3-303.jar
+		* CoFHLib|util (1.7.10R1.0.4B1) from EnderTech-1.7.10-0.3.2.405.jar
+		* CoFHLib|util|helpers (1.7.10R1.0.3) from CoFHCore-[1.7.10]3.0.3-303.jar
+		* CoFHLib|util|position (1.7.10R1.0.3) from CoFHCore-[1.7.10]3.0.3-303.jar
+		* CoFHLib|world (1.7.10R1.0.3) from CoFHCore-[1.7.10]3.0.3-303.jar
+		* CoFHLib|world|feature (1.7.10R1.0.3) from CoFHCore-[1.7.10]3.0.3-303.jar
+		* EnderIOAPI (0.0.2) from EnderIO-1.7.10-2.3.0.418_beta.jar
+		* EnderIOAPI|Redstone (0.0.2) from EnderIO-1.7.10-2.3.0.418_beta.jar
+		* EnderIOAPI|Teleport (0.0.2) from EnderIO-1.7.10-2.3.0.418_beta.jar
+		* EnderIOAPI|Tools (0.0.2) from EnderIO-1.7.10-2.3.0.418_beta.jar
+		* ForestryAPI|apiculture (4.8.0) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|arboriculture (4.2.1) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|circuits (3.1.0) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|core (5.0.0) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|farming (2.1.0) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|food (1.1.0) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|fuels (2.0.1) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|genetics (4.7.1) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|hives (4.1.0) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|lepidopterology (1.3.0) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|mail (3.0.0) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|multiblock (3.0.0) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|recipes (5.4.0) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|storage (3.0.0) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* ForestryAPI|world (2.1.0) from forestry_1.7.10-4.2.2.860-unstable.jar
+		* Guide-API|API (1.7.10-1.0.1-23) from Guide-API-1.7.10-1.0.1-23.jar
+		* IC2API (1.0) from industrialcraft-2-2.2.809-experimental.jar
+		* OpenBlocks|API (1.0) from OpenBlocks-1.7.10-1.4.4.jar
+		* PneumaticCraftApi (1.0) from PneumaticCraft-1.7.10-1.11.16-138-universal.jar
+		* pressureAPI (1.2.4.124) from pressure-1.2.4.124-mc1.7.10.jar
+		* RefinedRelocationAPI (1.0.0) from RefinedRelocation-mc1.7.10-1.1.13.jar
+		* StorageDrawersAPI (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.6.2.jar
+		* StorageDrawersAPI|config (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.6.2.jar
+		* StorageDrawersAPI|event (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.6.2.jar
+		* StorageDrawersAPI|inventory (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.6.2.jar
+		* StorageDrawersAPI|pack (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.6.2.jar
+		* StorageDrawersAPI|registry (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.6.2.jar
+		* StorageDrawersAPI|render (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.6.2.jar
+		* StorageDrawersAPI|storage (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.6.2.jar
+		* StorageDrawersAPI|storage-attribute (1.7.10-1.2.0) from StorageDrawers-1.7.10-1.6.2.jar
+		* Thaumcraft|API (4.2.2.0) from Thaumcraft-1.7.10-4.2.3.5.jar
+		* ToolHeadsAPI (1.0.0.1) from [1.7.10M] ToolHeads v1.2.0.4.jar
+		* VeinMinerApi (0.1) from VeinMiner-1.7.10_0.28.3.unknown.jar
+		* WailaAPI (1.2) from Waila-1.5.10_1.7.10.jar
+	Stencil buffer state: Function set: GL30, pool: forge, bits: 8
+	AE2 Integration: IC2:ON, RotaryCraft:OFF, RC:OFF, BC:ON, RF:ON, RFItem:ON, MFR:ON, DSU:ON, FZ:OFF, FMP:OFF, RB:OFF, CLApi:OFF, Waila:ON, InvTweaks:ON, NEI:ON, CraftGuide:ON, Mekanism:OFF, ImmibisMicroblocks:OFF, BetterStorage:OFF
+	Launched Version: 1.7.10-Forge10.13.4.1558-1.7.10
+	LWJGL: 2.9.1
+	OpenGL: AMD Radeon HD 6310 Graphics GL version 4.4.12874 Compatibility Profile Context 14.100.0.0, ATI Technologies Inc.
+	GL Caps: Using GL 1.3 multitexturing.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Anisotropic filtering is supported and maximum anisotropy is 16.
+Shaders are available because OpenGL 2.1 is supported.
+
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: []
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Anisotropic Filtering: Off (1)
+[15:57:08] [Client thread/INFO] [STDOUT/]: [net.minecraft.client.Minecraft:func_71377_b:359]: #@!@# Game crashed! Crash report saved to: #@!@# C:\Users\Blue64\AppData\Roaming\.minecraft\crash-reports\crash-2015-12-18_15.57.08-client.txt
