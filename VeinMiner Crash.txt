@@ -1,0 +1,465 @@
+{
+  "tools": {
+    "axe": {
+      "name": "Axe",
+      "icon": "minecraft:diamond_axe",
+      "toollist": [
+        "AWWayofTime:boundAxe",
+        "EnderIO:item.darkSteel_axe",
+        "ExtraUtilities:defoliageAxe",
+        "GraviSuite:advChainsaw",
+        "IC2:itemToolBronzeAxe",
+        "IC2:itemToolChainsaw",
+        "Thaumcraft:ItemAxeElemental",
+        "Thaumcraft:ItemAxeThaumium",
+        "Thaumcraft:ItemAxeVoid",
+        "ThermalFoundation:tool.axeBronze",
+        "ThermalFoundation:tool.axeCopper",
+        "ThermalFoundation:tool.axeElectrum",
+        "ThermalFoundation:tool.axeInvar",
+        "ThermalFoundation:tool.axeLead",
+        "ThermalFoundation:tool.axeNickel",
+        "ThermalFoundation:tool.axePlatinum",
+        "ThermalFoundation:tool.axeSilver",
+        "ThermalFoundation:tool.axeTin",
+        "appliedenergistics2:item.ToolCertusQuartzAxe",
+        "appliedenergistics2:item.ToolNetherQuartzAxe",
+        "bettersugarcane:scDiamondAxe",
+        "bettersugarcane:scGoldAxe",
+        "bettersugarcane:scIronAxe",
+        "ganysend:endiumAxe",
+        "ganysend:reinforcedEndiumAxe",
+        "magicalcrops:magicalcrops_InfusedT1Axe",
+        "magicalcrops:magicalcrops_InfusedT2Axe",
+        "magicalcrops:magicalcrops_InfusedT3Axe",
+        "minecraft:diamond_axe",
+        "minecraft:golden_axe",
+        "minecraft:iron_axe",
+        "minecraft:stone_axe",
+        "minecraft:wooden_axe",
+        "more:AluminiumAxe",
+        "more:BronzeAxe",
+        "more:CopperAxe",
+        "more:FiredAxe",
+        "more:RubyAxe",
+        "more:SapphireAxe",
+        "more:SilverAxe",
+        "more:StainlessAxe",
+        "wizardingtools:ItemEnhancedTitanAxe",
+        "wizardingtools:ItemTitanAxe"
+      ],
+      "blocklist": [
+        "Forestry:leaves",
+        "Forestry:logs",
+        "Forestry:logsFireproof",
+        "IC2:blockRubLeaves",
+        "MineFactoryReloaded:rubberwood.log",
+        "Thaumcraft:blockMagicalLog",
+        "evilcraft:undeadLog",
+        "ganyssurface:leafWall",
+        "minecraft:bookshelf",
+        "minecraft:fence",
+        "minecraft:leaves",
+        "minecraft:leaves2",
+        "minecraft:log",
+        "minecraft:log2"
+      ]
+    },
+    "crook": {
+      "name": "Crook",
+      "icon": "exnihilo:crook",
+      "toollist": [
+        "exnihilo:crook",
+        "exnihilo:crook_bone"
+      ],
+      "blocklist": [
+        "minecraft:leaves",
+        "minecraft:leaves2",
+        "minecraft:tallgrass",
+        "minecraft:vine",
+        "minecraft:web",
+        "minecraft:wool"
+      ]
+    },
+    "hammer": {
+      "name": "Hammer",
+      "icon": "exnihilo:hammer_stone",
+      "toollist": [
+        "IC2:itemToolForgeHammer",
+        "JABBA:hammer",
+        "JotatosPracticalities:hammer",
+        "MineFactoryReloaded:hammer",
+        "exastris:hammer_automatic",
+        "exastris:hammer_thaumium",
+        "exnihilo:hammer_diamond",
+        "exnihilo:hammer_gold",
+        "exnihilo:hammer_iron",
+        "exnihilo:hammer_stone",
+        "exnihilo:hammer_wood",
+        "more:BronzeHammer"
+      ],
+      "blocklist": [
+        "exnihilo:aluminum_dust",
+        "exnihilo:aluminum_gravel",
+        "exnihilo:aluminum_sand",
+        "exnihilo:copper_dust",
+        "exnihilo:copper_gravel",
+        "exnihilo:copper_sand",
+        "exnihilo:dust",
+        "exnihilo:ender_lead_gravel",
+        "exnihilo:ender_platinum_gravel",
+        "exnihilo:ender_silver_gravel",
+        "exnihilo:ender_tin_gravel",
+        "exnihilo:exnihilo.gravel_ender",
+        "exnihilo:exnihilo.gravel_nether",
+        "exnihilo:gold_dust",
+        "exnihilo:gold_gravel",
+        "exnihilo:gold_sand",
+        "exnihilo:iron_dust",
+        "exnihilo:iron_gravel",
+        "exnihilo:iron_sand",
+        "exnihilo:lead_dust",
+        "exnihilo:lead_gravel",
+        "exnihilo:lead_sand",
+        "exnihilo:nether_copper_gravel",
+        "exnihilo:nether_gold_gravel",
+        "exnihilo:nether_iron_gravel",
+        "exnihilo:nether_nickel_gravel",
+        "exnihilo:nickel_dust",
+        "exnihilo:nickel_gravel",
+        "exnihilo:nickel_sand",
+        "exnihilo:platinum_dust",
+        "exnihilo:platinum_gravel",
+        "exnihilo:platinum_sand",
+        "exnihilo:silver_dust",
+        "exnihilo:silver_gravel",
+        "exnihilo:silver_sand",
+        "exnihilo:tin_dust",
+        "exnihilo:tin_gravel",
+        "exnihilo:tin_sand",
+        "minecraft:cobblestone",
+        "minecraft:gravel",
+        "minecraft:sand"
+      ]
+    },
+    "hoe": {
+      "name": "Hoe",
+      "icon": "minecraft:diamond_hoe",
+      "toollist": [
+        "ExtraUtilities:temporalHoe",
+        "IC2:itemToolBronzeHoe",
+        "IC2:itemToolHoe",
+        "Thaumcraft:ItemHoeElemental",
+        "Thaumcraft:ItemHoeThaumium",
+        "Thaumcraft:ItemHoeVoid",
+        "ThermalFoundation:tool.hoeBronze",
+        "ThermalFoundation:tool.hoeCopper",
+        "ThermalFoundation:tool.hoeElectrum",
+        "ThermalFoundation:tool.hoeInvar",
+        "ThermalFoundation:tool.hoeLead",
+        "ThermalFoundation:tool.hoeNickel",
+        "ThermalFoundation:tool.hoePlatinum",
+        "ThermalFoundation:tool.hoeSilver",
+        "ThermalFoundation:tool.hoeTin",
+        "appliedenergistics2:item.ToolCertusQuartzHoe",
+        "appliedenergistics2:item.ToolNetherQuartzHoe",
+        "magicalcrops:magicalcrops_InfusedT3Hoe",
+        "minecraft:diamond_hoe",
+        "minecraft:golden_hoe",
+        "minecraft:iron_hoe",
+        "minecraft:stone_hoe",
+        "minecraft:wooden_hoe",
+        "more:AluminiumHoe",
+        "more:BronzeHoe",
+        "more:CopperHoe",
+        "more:FiredHoe",
+        "more:RubyHoe",
+        "more:SapphireHoe",
+        "more:SilverHoe",
+        "more:StainlessHoe",
+        "wizardingtools:ItemEnhancedTitanHoe",
+        "wizardingtools:ItemTitanHoe"
+      ],
+      "blocklist": [
+        "minecraft:carrots",
+        "minecraft:melon_block",
+        "minecraft:potatoes",
+        "minecraft:pumpkin",
+        "minecraft:wheat"
+      ]
+    },
+    "pickaxe": {
+      "name": "Pickaxe",
+      "icon": "minecraft:diamond_pickaxe",
+      "toollist": [
+        "AWWayofTime:boundPickaxe",
+        "EnderIO:item.darkSteel_pickaxe",
+        "ExtraUtilities:destructionpickaxe",
+        "Forestry:bronzePickaxe",
+        "GraviSuite:advDDrill",
+        "IC2:itemToolBronzePickaxe",
+        "IC2:itemToolDDrill",
+        "IC2:itemToolDrill",
+        "IC2:itemToolIridiumDrill",
+        "Thaumcraft:ItemPickaxeElemental",
+        "ThermalFoundation:tool.pickaxeBronze",
+        "ThermalFoundation:tool.pickaxeCopper",
+        "ThermalFoundation:tool.pickaxeElectrum",
+        "ThermalFoundation:tool.pickaxeInvar",
+        "ThermalFoundation:tool.pickaxeLead",
+        "ThermalFoundation:tool.pickaxeNickel",
+        "ThermalFoundation:tool.pickaxePlatinum",
+        "ThermalFoundation:tool.pickaxeSilver",
+        "ThermalFoundation:tool.pickaxeTin",
+        "appliedenergistics2:item.ToolCertusQuartzPickaxe",
+        "appliedenergistics2:item.ToolNetherQuartzPickaxe",
+        "evilcraft:vengeancePickaxe",
+        "ganysend:endiumPickaxe",
+        "ganysend:reinforcedEndiumPickaxe",
+        "ganyssurface:icyPickaxe",
+        "magicalcrops:magicalcrops_InfusedT1Pickaxe",
+        "magicalcrops:magicalcrops_InfusedT2Pickaxe",
+        "magicalcrops:magicalcrops_InfusedT3Pickaxe",
+        "minecraft:diamond_pickaxe",
+        "minecraft:golden_pickaxe",
+        "minecraft:iron_pickaxe",
+        "minecraft:stone_pickaxe",
+        "minecraft:wooden_pickaxe",
+        "more:AluminiumMultitool",
+        "more:AluminiumPickaxe",
+        "more:BronzePickaxe",
+        "more:CopperPickaxe",
+        "more:FiredPickaxe",
+        "more:RubyPickaxe",
+        "more:SapphirePickaxe",
+        "more:SilverMultitool",
+        "more:SilverPickaxe",
+        "more:StainlessMultitool",
+        "more:StainlessPickaxe",
+        "wizardingtools:ItemEnhancedTitanPickaxe",
+        "wizardingtools:ItemTitanPickaxe"
+      ],
+      "blocklist": [
+        "Forestry:resources/0",
+        "Forestry:resources/1",
+        "Forestry:resources/2",
+        "IC2:blockOreCopper",
+        "IC2:blockOreLead",
+        "IC2:blockOreTin",
+        "IC2:blockOreUran",
+        "NetherOres:tile.netherores.ore.0",
+        "NetherOres:tile.netherores.ore.1",
+        "Thaumcraft:blockCustomOre",
+        "ThermalFoundation:Ore",
+        "aobd:oreDustAluminium",
+        "aobd:oreDustChrome",
+        "aobd:oreDustEndium",
+        "aobd:oreDustIridium",
+        "aobd:oreDustMithril",
+        "aobd:oreDustSteel",
+        "aobd:oreDustTitanium",
+        "aobd:oreDustUranium",
+        "aobd:oreGravelAluminium",
+        "aobd:oreGravelChrome",
+        "aobd:oreGravelEndium",
+        "aobd:oreGravelIridium",
+        "aobd:oreGravelMithril",
+        "aobd:oreGravelSteel",
+        "aobd:oreGravelTitanium",
+        "aobd:oreGravelUranium",
+        "aobd:oreNetherGravelAluminium",
+        "aobd:oreNetherGravelChrome",
+        "aobd:oreNetherGravelEndium",
+        "aobd:oreNetherGravelIridium",
+        "aobd:oreNetherGravelMithril",
+        "aobd:oreNetherGravelSteel",
+        "aobd:oreNetherGravelTitanium",
+        "aobd:oreNetherGravelUranium",
+        "aobd:oreSandAluminium",
+        "aobd:oreSandChrome",
+        "aobd:oreSandEndium",
+        "aobd:oreSandIridium",
+        "aobd:oreSandMithril",
+        "aobd:oreSandSteel",
+        "aobd:oreSandTitanium",
+        "aobd:oreSandUranium",
+        "appliedenergistics2:tile.OreQuartz",
+        "appliedenergistics2:tile.OreQuartzCharged",
+        "evilcraft:darkOre",
+        "ganysend:rawEndium",
+        "ganyssurface:18Stones",
+        "minecraft:coal_ore",
+        "minecraft:cobblestone_wall",
+        "minecraft:diamond_ore",
+        "minecraft:emerald_ore",
+        "minecraft:glowstone",
+        "minecraft:gold_ore",
+        "minecraft:iron_ore",
+        "minecraft:lapis_ore",
+        "minecraft:lit_redstone_ore",
+        "minecraft:mossy_cobblestone",
+        "minecraft:nether_brick_fence",
+        "minecraft:obsidian",
+        "minecraft:quartz_ore",
+        "minecraft:redstone_ore",
+        "more:AluminiumOre",
+        "more:ChromeEndOre",
+        "more:ChromeOre",
+        "more:CopperOre",
+        "more:PlatinumOre",
+        "more:RubyOre",
+        "more:SapphireOre",
+        "more:SilverOre",
+        "more:TinOre",
+        "more:TitaniumOre",
+        "more:UraniumOre",
+        "wizardingtools:BlockAmethystOre",
+        "wizardingtools:BlockMalachiteOre",
+        "wizardingtools:BlockOpalOre",
+        "wizardingtools:BlockRubyOre",
+        "wizardingtools:BlockSapphireOre",
+        "wizardingtools:BlockTopazOre"
+      ]
+    },
+    "shears": {
+      "name": "Shears",
+      "icon": "minecraft:shears",
+      "toollist": [
+        "EnderIO:item.darkSteel_shears",
+        "ExtraUtilities:shears",
+        "ThermalFoundation:tool.shearsBronze",
+        "ThermalFoundation:tool.shearsCopper",
+        "ThermalFoundation:tool.shearsElectrum",
+        "ThermalFoundation:tool.shearsInvar",
+        "ThermalFoundation:tool.shearsLead",
+        "ThermalFoundation:tool.shearsNickel",
+        "ThermalFoundation:tool.shearsPlatinum",
+        "ThermalFoundation:tool.shearsSilver",
+        "ThermalFoundation:tool.shearsTin",
+        "minecraft:shears",
+        "more:BronzeShears",
+        "more:CopperShears",
+        "more:DiamondShears",
+        "more:GoldShears",
+        "more:RubyShears",
+        "more:SapphireShears",
+        "more:SilverShears",
+        "more:StainlessShears"
+      ],
+      "blocklist": [
+        "Forestry:leaves",
+        "IC2:blockRubLeaves",
+        "minecraft:deadbush",
+        "minecraft:leaves",
+        "minecraft:leaves2",
+        "minecraft:tallgrass",
+        "minecraft:vine",
+        "minecraft:web",
+        "minecraft:wool"
+      ]
+    },
+    "shovel": {
+      "name": "Shovel",
+      "icon": "minecraft:diamond_shovel",
+      "toollist": [
+        "AWWayofTime:boundShovel",
+        "ExtraUtilities:erosionShovel",
+        "Forestry:bronzeShovel",
+        "IC2:itemToolBronzeSpade",
+        "Thaumcraft:ItemShovelElemental",
+        "Thaumcraft:ItemShovelThaumium",
+        "Thaumcraft:ItemShovelVoid",
+        "ThermalFoundation:tool.shovelBronze",
+        "ThermalFoundation:tool.shovelCopper",
+        "ThermalFoundation:tool.shovelElectrum",
+        "ThermalFoundation:tool.shovelInvar",
+        "ThermalFoundation:tool.shovelLead",
+        "ThermalFoundation:tool.shovelNickel",
+        "ThermalFoundation:tool.shovelPlatinum",
+        "ThermalFoundation:tool.shovelSilver",
+        "ThermalFoundation:tool.shovelTin",
+        "appliedenergistics2:item.ToolCertusQuartzSpade",
+        "appliedenergistics2:item.ToolNetherQuartzSpade",
+        "bettersugarcane:scDiamondShovel",
+        "bettersugarcane:scGoldShovel",
+        "bettersugarcane:scIronShovel",
+        "ganysend:endiumShovel",
+        "ganysend:reinforcedEndiumShovel",
+        "magicalcrops:magicalcrops_InfusedT1Shovel",
+        "magicalcrops:magicalcrops_InfusedT2Shovel",
+        "magicalcrops:magicalcrops_InfusedT3Shovel",
+        "minecraft:diamond_shovel",
+        "minecraft:golden_shovel",
+        "minecraft:iron_shovel",
+        "minecraft:stone_shovel",
+        "minecraft:wooden_shovel"
+        "more:AluminiumMultitool",
+        "more:AluminiumShovel",
+        "more:BronzeShovel",
+        "more:CopperShovel",
+        "more:FiredShovel",
+        "more:RubyShovel",
+        "more:SapphireShovel",
+        "more:SilverMultitool",
+        "more:SilverShovel",
+        "more:StainlessMultitool",
+        "more:StainlessShovel",
+        "wizardingtools:ItemEnhancedTitanShovel",
+        "wizardingtools:ItemTitanShovel"
+      ],
+      "blocklist": [
+        "minecraft:clay",
+        "minecraft:gravel"
+      ]
+    }
+  }
+}
+
+Error line points here:
+        "more:AluminiumMultitool",
+
+[14:56:31] [Client thread/ERROR] [VeinMiner]: Error parsing tools-and-blocks.json; Json error: com.google.gson.stream.MalformedJsonException: Unterminated array at line 396 column 10
+[14:56:31] [Client thread/ERROR] [VeinMiner]: Asking java to exit
+[14:56:31] [Client thread/INFO] [FML]: Java has been asked to exit (code 1) by cpw.mods.fml.common.FMLCommonHandler.exitJava(FMLCommonHandler.java:613).
+[14:56:31] [Client thread/INFO] [FML]: Exit trace
+java.lang.Throwable
+	at cpw.mods.fml.common.FMLCommonHandler.exitJava(FMLCommonHandler.java:620) [FMLCommonHandler.class:?]
+	at portablejim.veinminer.configuration.ConfigurationValues.loadConfigFile(ConfigurationValues.java:159) [ConfigurationValues.class:?]
+	at portablejim.veinminer.configuration.ConfigurationValues.<init>(ConfigurationValues.java:140) [ConfigurationValues.class:?]
+	at portablejim.veinminer.VeinMiner.preInit(VeinMiner.java:157) [VeinMiner.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_60]
+	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:532) [FMLModContainer.class:?]
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source) ~[?:?]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_60]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.sendEventToModContainer(LoadController.java:212) [LoadController.class:?]
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:190) [LoadController.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_60]
+	at com.google.common.eventbus.EventSubscriber.handleEvent(EventSubscriber.java:74) [guava-17.0.jar:?]
+	at com.google.common.eventbus.SynchronizedEventSubscriber.handleEvent(SynchronizedEventSubscriber.java:47) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:322) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:304) [guava-17.0.jar:?]
+	at com.google.common.eventbus.EventBus.post(EventBus.java:275) [guava-17.0.jar:?]
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:119) [LoadController.class:?]
+	at cpw.mods.fml.common.Loader.preinitializeMods(Loader.java:556) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:243) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:480) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_60]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_60]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_60]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
